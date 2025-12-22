@@ -1,0 +1,13 @@
+student_id,student_name,class,date,attendance,marks
+S001,Aarav,10A,2025-01-01,Present,78
+S001,Aarav,10A,2025-01-02,Absent,78
+S001,Aarav,10A,2025-01-03,Present,78
+S002,Diya,10A,2025-01-01,Present,92
+S002,Diya,10A,2025-01-02,Present,92
+S002,Diya,10A,2025-01-03,Present,92
+S003,Rohan,10A,2025-01-01,Absent,55
+S003,Rohan,10A,2025-01-02,Absent,55
+S003,Rohan,10A,2025-01-03,Present,55
+S004,Neha,10A,2025-01-01,Present,61
+S004,Neha,10A,2025-01-02,Absent,61
+S004,Neha,10A,2025-01-03,Absent,61
