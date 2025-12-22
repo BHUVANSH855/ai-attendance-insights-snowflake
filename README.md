@@ -71,3 +71,14 @@ FROM SCHOOL_DB.PUBLIC.STUDENT_ATTENDANCE
 GROUP BY student_name
 HAVING COUNT_IF(attendance = 'Absent') >= 2
    OR AVG(marks) < 60;
+
+## 🌍 Impact
+- Enables early identification of at-risk students
+- Reduces manual monitoring effort for educators
+- Supports timely academic intervention using AI-driven insights
+
+## 🚀 How to Run
+1. Create a Snowflake account
+2. Upload the provided CSV dataset
+3. Run the SQL scripts from the repository
+4. Execute the Cortex AI query to generate insights
