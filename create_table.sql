@@ -1,0 +1,11 @@
+CREATE OR REPLACE DATABASE SCHOOL_DB;
+USE DATABASE SCHOOL_DB;
+
+CREATE OR REPLACE TABLE STUDENT_ATTENDANCE (
+    student_id STRING,
+    student_name STRING,
+    class STRING,
+    date DATE,
+    attendance STRING,
+    marks INTEGER
+);
