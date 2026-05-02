@@ -13,6 +13,14 @@ Manual monitoring is time-consuming, reactive, and error-prone, which delays tim
 Schools often struggle to identify students who need early academic attention due to **irregular attendance** or **declining performance**.  
 Manual monitoring is time-consuming, reactive, and error-prone, which delays timely intervention.
 
+
+---
+
+## 🧩 Problem Statement
+Schools often struggle to identify students who need early academic attention due to **irregular attendance** or **declining performance**.  
+Manual monitoring is time-consuming, reactive, and error-prone, which delays timely intervention.
+
+
 ---
 
 ## 💡 Solution
