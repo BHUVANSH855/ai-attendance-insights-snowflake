@@ -9,6 +9,12 @@ Manual monitoring is time-consuming, reactive, and error-prone, which delays tim
 
 ---
 
+## 🧩 Problem Statement
+Schools often struggle to identify students who need early academic attention due to **irregular attendance** or **declining performance**.  
+Manual monitoring is time-consuming, reactive, and error-prone, which delays timely intervention.
+
+---
+
 ## 💡 Solution
 This project leverages **Snowflake Cortex AI** to analyze student attendance and performance data and generate **human-readable explanations and recommendations** for at-risk students.  
 The system enables educators to make **early, data-driven decisions** using AI-powered insights.
