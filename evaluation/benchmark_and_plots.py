@@ -5,14 +5,14 @@ import numpy as np
 import pandas as pd
 
 sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), "..")))
-from data.generate_dataset import generate_attendance_data
+from data.generate_dataset import fetch_real_attendance_data
 from src.risk_model import AttendanceRiskPredictor
 
 
 def run_evaluation():
     csv_path = os.path.join("data", "attendance_records.csv")
     if not os.path.exists(csv_path):
-        df = generate_attendance_data()
+        df = fetch_real_attendance_data()
     else:
         df = pd.read_csv(csv_path)
 
@@ -57,7 +57,7 @@ def run_evaluation():
     dept_avg = df.groupby("department")["attendance_pct"].mean().sort_values()
     plt.bar(dept_avg.index, dept_avg.values, color=["#e53e3e", "#dd6b20", "#3182ce", "#38a169"])
     plt.axhline(75.0, color="red", linestyle="--", label="75% Minimum Threshold")
-    plt.ylim(60, 95)
+    plt.ylim(60, 100)
     plt.ylabel("Average Attendance (%)")
     plt.title("Department-Wise Mean Attendance vs. 75% Eligibility Threshold")
     plt.legend()
@@ -65,7 +65,8 @@ def run_evaluation():
     plt.savefig("screenshots/eval_dept_attendance.png", dpi=300)
     plt.close()
 
-    print("=== Evaluation Metrics Summary ===")
+    print("=== Real Dataset Evaluation Metrics Summary ===")
+    print(f"Records  : {len(df)}")
     print(f"Accuracy : {metrics['accuracy']}%")
     print(f"Precision: {metrics['precision_risk']}%")
     print(f"Recall   : {metrics['recall_risk']}%")

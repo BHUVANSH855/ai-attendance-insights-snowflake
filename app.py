@@ -1,7 +1,7 @@
 import os
 import pandas as pd
 import streamlit as st
-from data.generate_dataset import generate_attendance_data
+from data.generate_dataset import fetch_real_attendance_data
 from src.risk_model import AttendanceRiskPredictor
 
 st.set_page_config(
@@ -12,28 +12,43 @@ st.set_page_config(
 
 st.title("🎓 AI-Based Student Attendance Insights & Risk System")
 st.markdown(
-    "Cloud-ready analytical warehouse (**Snowflake + Cortex AI**) paired with "
+    "Cloud analytical warehouse (**Snowflake + Cortex AI**) paired with "
     "supervised detention-risk forecasting (**Random Forest**)."
+)
+
+# Sidebar: Real Data Ingestion (Upload any institutional CSV or use Snowflake/UCI data)
+st.sidebar.header("📂 Data Source Configuration")
+uploaded_file = st.sidebar.file_uploader(
+    "Upload Institutional Attendance CSV",
+    type=["csv"],
+    help="Upload a CSV with columns: student_id, student_name, department, subject_code, subject_name, total_classes, attended_classes, attendance_pct, last_7_days_attended, consecutive_absences, detention_risk",
 )
 
 
 @st.cache_data
-def load_attendance_data():
+def load_default_data():
     try:
         conn = st.connection("snowflake")
         df = conn.query("SELECT * FROM ATTENDANCE_AI_DB.ANALYTICS.ATTENDANCE_LOGS;", ttl="10m")
         df.columns = [c.lower() for c in df.columns]
-        return df, "Connected to Live Snowflake Warehouse"
+        return df, "Connected to Live Snowflake Warehouse", True
     except Exception:
         csv_path = os.path.join("data", "attendance_records.csv")
         if not os.path.exists(csv_path):
-            df = generate_attendance_data()
+            df = fetch_real_attendance_data()
         else:
             df = pd.read_csv(csv_path)
-        return df, "Local Analytical Mode (CSV Fallback)"
+        return df, "Real UCI Benchmark Dataset (Local CSV)", False
 
 
-df, connection_status = load_attendance_data()
+if uploaded_file is not None:
+    df = pd.read_csv(uploaded_file)
+    df.columns = [c.lower().strip() for c in df.columns]
+    connection_status = f"Live Uploaded CSV ({uploaded_file.name})"
+    is_snowflake_live = False
+else:
+    df, connection_status, is_snowflake_live = load_default_data()
+
 st.info(f"**Data Pipeline Status:** {connection_status} | **Loaded Records:** {len(df):,}")
 
 predictor = AttendanceRiskPredictor()
@@ -84,20 +99,52 @@ with tab1:
     st.subheader(f"Filtered Student Risk Records ({len(filtered)} rows)")
     st.dataframe(
         filtered.sort_values(["attendance_pct", "consecutive_absences"], ascending=[True, False]),
-        use_container_width=True,
+        width="stretch",
     )
 
 with tab2:
-    st.subheader("Automated Academic Advisor Recommendations")
-    actionable = df[df["risk_tier"].isin(["CRITICAL", "HIGH_RISK", "WARNING"])].copy()
-    actionable = actionable.sort_values("attendance_pct").head(25)
-    actionable["mentor_alert"] = actionable.apply(predictor.generate_mentor_alert, axis=1)
-    st.dataframe(
-        actionable[
-            ["student_id", "student_name", "department", "subject_name", "attendance_pct", "risk_tier", "mentor_alert"]
-        ],
-        use_container_width=True,
-    )
+    st.subheader("Snowflake Cortex AI & Risk-Based Mentor Interventions")
+    if is_snowflake_live:
+        conn = st.connection("snowflake")
+        cortex_df = conn.query(
+            """
+            SELECT
+                student_id,
+                student_name,
+                department,
+                overall_attendance_pct,
+                risk_tier,
+                SNOWFLAKE.CORTEX.AI_COMPLETE(
+                    'mistral-large2',
+                    CONCAT(
+                        'Student ', student_name, ' (', department, ') has ',
+                        overall_attendance_pct, '% attendance and ', max_absence_streak,
+                        ' consecutive absences (Tier: ', risk_tier,
+                        '). Give a 2-sentence faculty mentor action plan.'
+                    )
+                ) AS ai_mentor_recommendation
+            FROM ATTENDANCE_AI_DB.ANALYTICS.VW_STUDENT_RISK_SUMMARY
+            WHERE risk_tier IN ('CRITICAL', 'HIGH_RISK', 'WARNING')
+            ORDER BY overall_attendance_pct ASC
+            LIMIT 15;
+            """,
+            ttl="10m",
+        )
+        st.dataframe(cortex_df, width="stretch")
+    else:
+        st.caption(
+            "Configure `.streamlit/secrets.toml` to execute `SNOWFLAKE.CORTEX.AI_COMPLETE` live in-warehouse. "
+            "Showing dynamic risk-scored alerts below:"
+        )
+        actionable = df[df["risk_tier"].isin(["CRITICAL", "HIGH_RISK", "WARNING"])].copy()
+        actionable = actionable.sort_values("attendance_pct").head(25)
+        actionable["mentor_alert"] = actionable.apply(predictor.generate_mentor_alert, axis=1)
+        st.dataframe(
+            actionable[
+                ["student_id", "student_name", "department", "subject_name", "attendance_pct", "risk_tier", "mentor_alert"]
+            ],
+            width="stretch",
+        )
 
 with tab3:
     st.subheader("Feature Importance Driving Detention Risk Predictions")
