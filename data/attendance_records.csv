@@ -1,0 +1,1501 @@
+student_id,student_name,department,subject_code,subject_name,total_classes,attended_classes,attendance_pct,last_7_days_attended,consecutive_absences,detention_risk
+24BCS10001,Student_001,CSE,CS301,Data Structures,38,27,71.05,5,0,1
+24BCS10001,Student_001,CSE,CS302,Database Management Systems,43,28,65.12,3,5,1
+24BCS10001,Student_001,CSE,CS303,Operating Systems,37,25,67.57,3,2,1
+24BCS10001,Student_001,CSE,CS304,Computer Networks,40,30,75.0,5,0,0
+24BCS10001,Student_001,CSE,CS305,Cloud Computing,44,34,77.27,4,0,0
+24BCS10002,Student_002,CSE-AI,CS301,Data Structures,38,28,73.68,4,0,1
+24BCS10002,Student_002,CSE-AI,CS302,Database Management Systems,39,29,74.36,3,5,1
+24BCS10002,Student_002,CSE-AI,CS303,Operating Systems,44,34,77.27,5,0,0
+24BCS10002,Student_002,CSE-AI,CS304,Computer Networks,39,30,76.92,4,0,0
+24BCS10002,Student_002,CSE-AI,CS305,Cloud Computing,40,32,80.0,5,0,0
+24BCS10003,Student_003,CSE,CS301,Data Structures,43,43,100.0,5,0,0
+24BCS10003,Student_003,CSE,CS302,Database Management Systems,36,34,94.44,5,0,0
+24BCS10003,Student_003,CSE,CS303,Operating Systems,41,35,85.37,5,0,0
+24BCS10003,Student_003,CSE,CS304,Computer Networks,39,36,92.31,4,0,0
+24BCS10003,Student_003,CSE,CS305,Cloud Computing,43,41,95.35,5,0,0
+24BCS10004,Student_004,CSE-AI,CS301,Data Structures,43,40,93.02,5,0,0
+24BCS10004,Student_004,CSE-AI,CS302,Database Management Systems,44,35,79.55,5,0,0
+24BCS10004,Student_004,CSE-AI,CS303,Operating Systems,44,36,81.82,3,4,0
+24BCS10004,Student_004,CSE-AI,CS304,Computer Networks,43,38,88.37,4,0,0
+24BCS10004,Student_004,CSE-AI,CS305,Cloud Computing,40,35,87.5,3,2,0
+24BCS10005,Student_005,CSE,CS301,Data Structures,37,33,89.19,5,0,0
+24BCS10005,Student_005,CSE,CS302,Database Management Systems,42,33,78.57,3,3,0
+24BCS10005,Student_005,CSE,CS303,Operating Systems,38,30,78.95,4,0,0
+24BCS10005,Student_005,CSE,CS304,Computer Networks,40,32,80.0,5,0,0
+24BCS10005,Student_005,CSE,CS305,Cloud Computing,44,39,88.64,4,0,0
+24BCS10006,Student_006,CSE,CS301,Data Structures,42,27,64.29,3,5,1
+24BCS10006,Student_006,CSE,CS302,Database Management Systems,39,25,64.1,4,0,1
+24BCS10006,Student_006,CSE,CS303,Operating Systems,39,26,66.67,2,3,1
+24BCS10006,Student_006,CSE,CS304,Computer Networks,38,26,68.42,2,4,1
+24BCS10006,Student_006,CSE,CS305,Cloud Computing,39,28,71.79,2,3,1
+24BCS10007,Student_007,CSE,CS301,Data Structures,36,26,72.22,4,0,1
+24BCS10007,Student_007,CSE,CS302,Database Management Systems,44,35,79.55,5,0,0
+24BCS10007,Student_007,CSE,CS303,Operating Systems,43,34,79.07,4,0,0
+24BCS10007,Student_007,CSE,CS304,Computer Networks,40,29,72.5,4,0,1
+24BCS10007,Student_007,CSE,CS305,Cloud Computing,41,34,82.93,5,0,0
+24BCS10008,Student_008,CSE-AI,CS301,Data Structures,39,28,71.79,4,0,1
+24BCS10008,Student_008,CSE-AI,CS302,Database Management Systems,42,27,64.29,4,0,1
+24BCS10008,Student_008,CSE-AI,CS303,Operating Systems,36,26,72.22,4,0,1
+24BCS10008,Student_008,CSE-AI,CS304,Computer Networks,37,26,70.27,4,0,1
+24BCS10008,Student_008,CSE-AI,CS305,Cloud Computing,36,27,75.0,3,2,0
+24BCS10009,Student_009,CSE-AI,CS301,Data Structures,42,38,90.48,4,0,0
+24BCS10009,Student_009,CSE-AI,CS302,Database Management Systems,43,43,100.0,5,0,0
+24BCS10009,Student_009,CSE-AI,CS303,Operating Systems,39,37,94.87,3,3,0
+24BCS10009,Student_009,CSE-AI,CS304,Computer Networks,36,36,100.0,5,0,0
+24BCS10009,Student_009,CSE-AI,CS305,Cloud Computing,38,35,92.11,5,0,0
+24BCS10010,Student_010,CSE-AI,CS301,Data Structures,38,30,78.95,4,0,0
+24BCS10010,Student_010,CSE-AI,CS302,Database Management Systems,42,35,83.33,5,0,0
+24BCS10010,Student_010,CSE-AI,CS303,Operating Systems,37,28,75.68,3,3,1
+24BCS10010,Student_010,CSE-AI,CS304,Computer Networks,44,35,79.55,4,0,0
+24BCS10010,Student_010,CSE-AI,CS305,Cloud Computing,44,37,84.09,4,0,0
+24BCS10011,Student_011,CSE,CS301,Data Structures,42,39,92.86,5,0,0
+24BCS10011,Student_011,CSE,CS302,Database Management Systems,38,37,97.37,4,0,0
+24BCS10011,Student_011,CSE,CS303,Operating Systems,41,39,95.12,4,0,0
+24BCS10011,Student_011,CSE,CS304,Computer Networks,43,41,95.35,5,0,0
+24BCS10011,Student_011,CSE,CS305,Cloud Computing,44,43,97.73,5,0,0
+24BCS10012,Student_012,CSE,CS301,Data Structures,41,32,78.05,4,0,0
+24BCS10012,Student_012,CSE,CS302,Database Management Systems,44,34,77.27,4,0,0
+24BCS10012,Student_012,CSE,CS303,Operating Systems,43,36,83.72,3,1,0
+24BCS10012,Student_012,CSE,CS304,Computer Networks,36,31,86.11,4,0,0
+24BCS10012,Student_012,CSE,CS305,Cloud Computing,41,40,97.56,5,0,0
+24BCS10013,Student_013,ECE,CS301,Data Structures,37,33,89.19,5,0,0
+24BCS10013,Student_013,ECE,CS302,Database Management Systems,36,32,88.89,5,0,0
+24BCS10013,Student_013,ECE,CS303,Operating Systems,38,38,100.0,5,0,0
+24BCS10013,Student_013,ECE,CS304,Computer Networks,36,29,80.56,3,4,0
+24BCS10013,Student_013,ECE,CS305,Cloud Computing,44,39,88.64,3,5,0
+24BCS10014,Student_014,CSE,CS301,Data Structures,40,32,80.0,5,0,0
+24BCS10014,Student_014,CSE,CS302,Database Management Systems,36,26,72.22,4,0,1
+24BCS10014,Student_014,CSE,CS303,Operating Systems,41,30,73.17,3,2,1
+24BCS10014,Student_014,CSE,CS304,Computer Networks,41,28,68.29,4,0,1
+24BCS10014,Student_014,CSE,CS305,Cloud Computing,36,26,72.22,3,1,1
+24BCS10015,Student_015,IT,CS301,Data Structures,42,26,61.9,3,2,1
+24BCS10015,Student_015,IT,CS302,Database Management Systems,44,27,61.36,5,0,1
+24BCS10015,Student_015,IT,CS303,Operating Systems,39,26,66.67,2,1,1
+24BCS10015,Student_015,IT,CS304,Computer Networks,43,30,69.77,2,4,1
+24BCS10015,Student_015,IT,CS305,Cloud Computing,37,26,70.27,5,0,1
+24BCS10016,Student_016,CSE-AI,CS301,Data Structures,41,32,78.05,4,0,0
+24BCS10016,Student_016,CSE-AI,CS302,Database Management Systems,41,34,82.93,5,0,0
+24BCS10016,Student_016,CSE-AI,CS303,Operating Systems,43,31,72.09,3,4,1
+24BCS10016,Student_016,CSE-AI,CS304,Computer Networks,40,35,87.5,5,0,0
+24BCS10016,Student_016,CSE-AI,CS305,Cloud Computing,38,30,78.95,4,0,0
+24BCS10017,Student_017,IT,CS301,Data Structures,38,32,84.21,4,0,0
+24BCS10017,Student_017,IT,CS302,Database Management Systems,38,29,76.32,5,0,0
+24BCS10017,Student_017,IT,CS303,Operating Systems,40,32,80.0,5,0,0
+24BCS10017,Student_017,IT,CS304,Computer Networks,44,35,79.55,3,2,0
+24BCS10017,Student_017,IT,CS305,Cloud Computing,41,34,82.93,4,0,0
+24BCS10018,Student_018,CSE-AI,CS301,Data Structures,41,38,92.68,4,0,0
+24BCS10018,Student_018,CSE-AI,CS302,Database Management Systems,38,31,81.58,4,0,0
+24BCS10018,Student_018,CSE-AI,CS303,Operating Systems,44,35,79.55,4,0,0
+24BCS10018,Student_018,CSE-AI,CS304,Computer Networks,40,33,82.5,2,5,0
+24BCS10018,Student_018,CSE-AI,CS305,Cloud Computing,40,33,82.5,4,0,0
+24BCS10019,Student_019,CSE,CS301,Data Structures,41,22,53.66,2,2,1
+24BCS10019,Student_019,CSE,CS302,Database Management Systems,39,26,66.67,3,1,1
+24BCS10019,Student_019,CSE,CS303,Operating Systems,43,22,51.16,2,4,1
+24BCS10019,Student_019,CSE,CS304,Computer Networks,43,26,60.47,2,4,1
+24BCS10019,Student_019,CSE,CS305,Cloud Computing,37,24,64.86,3,1,1
+24BCS10020,Student_020,CSE-AI,CS301,Data Structures,38,34,89.47,4,0,0
+24BCS10020,Student_020,CSE-AI,CS302,Database Management Systems,43,37,86.05,5,0,0
+24BCS10020,Student_020,CSE-AI,CS303,Operating Systems,37,33,89.19,5,0,0
+24BCS10020,Student_020,CSE-AI,CS304,Computer Networks,42,38,90.48,4,0,0
+24BCS10020,Student_020,CSE-AI,CS305,Cloud Computing,43,37,86.05,4,0,0
+24BCS10021,Student_021,IT,CS301,Data Structures,44,30,68.18,3,3,1
+24BCS10021,Student_021,IT,CS302,Database Management Systems,36,25,69.44,4,0,1
+24BCS10021,Student_021,IT,CS303,Operating Systems,43,32,74.42,3,5,1
+24BCS10021,Student_021,IT,CS304,Computer Networks,36,28,77.78,5,0,0
+24BCS10021,Student_021,IT,CS305,Cloud Computing,36,27,75.0,4,0,0
+24BCS10022,Student_022,CSE-AI,CS301,Data Structures,38,23,60.53,3,4,1
+24BCS10022,Student_022,CSE-AI,CS302,Database Management Systems,44,27,61.36,1,4,1
+24BCS10022,Student_022,CSE-AI,CS303,Operating Systems,38,26,68.42,4,0,1
+24BCS10022,Student_022,CSE-AI,CS304,Computer Networks,40,26,65.0,3,5,1
+24BCS10022,Student_022,CSE-AI,CS305,Cloud Computing,39,23,58.97,1,1,1
+24BCS10023,Student_023,CSE,CS301,Data Structures,37,34,91.89,3,1,0
+24BCS10023,Student_023,CSE,CS302,Database Management Systems,36,30,83.33,3,2,0
+24BCS10023,Student_023,CSE,CS303,Operating Systems,37,32,86.49,5,0,0
+24BCS10023,Student_023,CSE,CS304,Computer Networks,40,35,87.5,4,0,0
+24BCS10023,Student_023,CSE,CS305,Cloud Computing,41,32,78.05,3,1,0
+24BCS10024,Student_024,CSE-AI,CS301,Data Structures,38,35,92.11,4,0,0
+24BCS10024,Student_024,CSE-AI,CS302,Database Management Systems,41,37,90.24,5,0,0
+24BCS10024,Student_024,CSE-AI,CS303,Operating Systems,38,38,100.0,5,0,0
+24BCS10024,Student_024,CSE-AI,CS304,Computer Networks,37,34,91.89,5,0,0
+24BCS10024,Student_024,CSE-AI,CS305,Cloud Computing,44,42,95.45,5,0,0
+24BCS10025,Student_025,CSE-AI,CS301,Data Structures,36,24,66.67,5,0,1
+24BCS10025,Student_025,CSE-AI,CS302,Database Management Systems,36,27,75.0,5,0,0
+24BCS10025,Student_025,CSE-AI,CS303,Operating Systems,38,29,76.32,3,1,0
+24BCS10025,Student_025,CSE-AI,CS304,Computer Networks,37,27,72.97,4,0,1
+24BCS10025,Student_025,CSE-AI,CS305,Cloud Computing,36,26,72.22,3,3,1
+24BCS10026,Student_026,ECE,CS301,Data Structures,43,41,95.35,5,0,0
+24BCS10026,Student_026,ECE,CS302,Database Management Systems,39,34,87.18,4,0,0
+24BCS10026,Student_026,ECE,CS303,Operating Systems,40,39,97.5,4,0,0
+24BCS10026,Student_026,ECE,CS304,Computer Networks,41,41,100.0,5,0,0
+24BCS10026,Student_026,ECE,CS305,Cloud Computing,38,35,92.11,4,0,0
+24BCS10027,Student_027,ECE,CS301,Data Structures,37,36,97.3,5,0,0
+24BCS10027,Student_027,ECE,CS302,Database Management Systems,37,31,83.78,4,0,0
+24BCS10027,Student_027,ECE,CS303,Operating Systems,41,37,90.24,4,0,0
+24BCS10027,Student_027,ECE,CS304,Computer Networks,36,35,97.22,5,0,0
+24BCS10027,Student_027,ECE,CS305,Cloud Computing,36,31,86.11,4,0,0
+24BCS10028,Student_028,CSE-AI,CS301,Data Structures,42,25,59.52,2,1,1
+24BCS10028,Student_028,CSE-AI,CS302,Database Management Systems,40,28,70.0,2,2,1
+24BCS10028,Student_028,CSE-AI,CS303,Operating Systems,38,25,65.79,4,0,1
+24BCS10028,Student_028,CSE-AI,CS304,Computer Networks,44,25,56.82,2,2,1
+24BCS10028,Student_028,CSE-AI,CS305,Cloud Computing,43,28,65.12,5,0,1
+24BCS10029,Student_029,CSE-AI,CS301,Data Structures,37,35,94.59,4,0,0
+24BCS10029,Student_029,CSE-AI,CS302,Database Management Systems,41,40,97.56,5,0,0
+24BCS10029,Student_029,CSE-AI,CS303,Operating Systems,42,42,100.0,5,0,0
+24BCS10029,Student_029,CSE-AI,CS304,Computer Networks,40,40,100.0,5,0,0
+24BCS10029,Student_029,CSE-AI,CS305,Cloud Computing,37,36,97.3,5,0,0
+24BCS10030,Student_030,CSE-AI,CS301,Data Structures,37,21,56.76,3,1,1
+24BCS10030,Student_030,CSE-AI,CS302,Database Management Systems,43,29,67.44,3,1,1
+24BCS10030,Student_030,CSE-AI,CS303,Operating Systems,40,28,70.0,3,2,1
+24BCS10030,Student_030,CSE-AI,CS304,Computer Networks,43,30,69.77,5,0,1
+24BCS10030,Student_030,CSE-AI,CS305,Cloud Computing,40,28,70.0,1,5,1
+24BCS10031,Student_031,CSE,CS301,Data Structures,38,30,78.95,4,0,0
+24BCS10031,Student_031,CSE,CS302,Database Management Systems,42,37,88.1,5,0,0
+24BCS10031,Student_031,CSE,CS303,Operating Systems,43,35,81.4,4,0,0
+24BCS10031,Student_031,CSE,CS304,Computer Networks,38,33,86.84,4,0,0
+24BCS10031,Student_031,CSE,CS305,Cloud Computing,38,32,84.21,5,0,0
+24BCS10032,Student_032,CSE,CS301,Data Structures,40,28,70.0,3,5,1
+24BCS10032,Student_032,CSE,CS302,Database Management Systems,44,33,75.0,5,0,0
+24BCS10032,Student_032,CSE,CS303,Operating Systems,44,31,70.45,5,0,1
+24BCS10032,Student_032,CSE,CS304,Computer Networks,44,32,72.73,5,0,1
+24BCS10032,Student_032,CSE,CS305,Cloud Computing,36,29,80.56,5,0,0
+24BCS10033,Student_033,IT,CS301,Data Structures,43,33,76.74,4,0,0
+24BCS10033,Student_033,IT,CS302,Database Management Systems,42,34,80.95,5,0,0
+24BCS10033,Student_033,IT,CS303,Operating Systems,43,32,74.42,5,0,1
+24BCS10033,Student_033,IT,CS304,Computer Networks,38,28,73.68,4,0,1
+24BCS10033,Student_033,IT,CS305,Cloud Computing,37,29,78.38,4,0,0
+24BCS10034,Student_034,CSE-AI,CS301,Data Structures,40,27,67.5,4,0,1
+24BCS10034,Student_034,CSE-AI,CS302,Database Management Systems,42,28,66.67,4,0,1
+24BCS10034,Student_034,CSE-AI,CS303,Operating Systems,44,30,68.18,2,4,1
+24BCS10034,Student_034,CSE-AI,CS304,Computer Networks,44,34,77.27,4,0,0
+24BCS10034,Student_034,CSE-AI,CS305,Cloud Computing,39,29,74.36,4,0,1
+24BCS10035,Student_035,CSE-AI,CS301,Data Structures,38,32,84.21,5,0,0
+24BCS10035,Student_035,CSE-AI,CS302,Database Management Systems,40,33,82.5,4,0,0
+24BCS10035,Student_035,CSE-AI,CS303,Operating Systems,43,30,69.77,4,0,1
+24BCS10035,Student_035,CSE-AI,CS304,Computer Networks,41,28,68.29,5,0,1
+24BCS10035,Student_035,CSE-AI,CS305,Cloud Computing,41,32,78.05,4,0,0
+24BCS10036,Student_036,CSE-AI,CS301,Data Structures,41,37,90.24,3,3,0
+24BCS10036,Student_036,CSE-AI,CS302,Database Management Systems,44,40,90.91,5,0,0
+24BCS10036,Student_036,CSE-AI,CS303,Operating Systems,40,39,97.5,5,0,0
+24BCS10036,Student_036,CSE-AI,CS304,Computer Networks,41,35,85.37,4,0,0
+24BCS10036,Student_036,CSE-AI,CS305,Cloud Computing,36,33,91.67,5,0,0
+24BCS10037,Student_037,CSE,CS301,Data Structures,39,27,69.23,4,0,1
+24BCS10037,Student_037,CSE,CS302,Database Management Systems,38,26,68.42,5,0,1
+24BCS10037,Student_037,CSE,CS303,Operating Systems,42,28,66.67,3,2,1
+24BCS10037,Student_037,CSE,CS304,Computer Networks,43,28,65.12,3,1,1
+24BCS10037,Student_037,CSE,CS305,Cloud Computing,44,32,72.73,3,3,1
+24BCS10038,Student_038,CSE,CS301,Data Structures,38,32,84.21,5,0,0
+24BCS10038,Student_038,CSE,CS302,Database Management Systems,43,37,86.05,4,0,0
+24BCS10038,Student_038,CSE,CS303,Operating Systems,38,32,84.21,5,0,0
+24BCS10038,Student_038,CSE,CS304,Computer Networks,40,34,85.0,3,1,0
+24BCS10038,Student_038,CSE,CS305,Cloud Computing,44,34,77.27,3,3,1
+24BCS10039,Student_039,CSE-AI,CS301,Data Structures,36,23,63.89,4,0,1
+24BCS10039,Student_039,CSE-AI,CS302,Database Management Systems,36,21,58.33,5,0,1
+24BCS10039,Student_039,CSE-AI,CS303,Operating Systems,43,19,44.19,3,3,1
+24BCS10039,Student_039,CSE-AI,CS304,Computer Networks,41,23,56.1,3,4,1
+24BCS10039,Student_039,CSE-AI,CS305,Cloud Computing,36,21,58.33,3,3,1
+24BCS10040,Student_040,IT,CS301,Data Structures,40,29,72.5,3,1,1
+24BCS10040,Student_040,IT,CS302,Database Management Systems,39,33,84.62,3,1,0
+24BCS10040,Student_040,IT,CS303,Operating Systems,41,32,78.05,3,4,0
+24BCS10040,Student_040,IT,CS304,Computer Networks,43,33,76.74,4,0,0
+24BCS10040,Student_040,IT,CS305,Cloud Computing,39,35,89.74,4,0,0
+24BCS10041,Student_041,IT,CS301,Data Structures,39,39,100.0,5,0,0
+24BCS10041,Student_041,IT,CS302,Database Management Systems,40,36,90.0,5,0,0
+24BCS10041,Student_041,IT,CS303,Operating Systems,43,40,93.02,5,0,0
+24BCS10041,Student_041,IT,CS304,Computer Networks,44,44,100.0,5,0,0
+24BCS10041,Student_041,IT,CS305,Cloud Computing,39,36,92.31,4,0,0
+24BCS10042,Student_042,IT,CS301,Data Structures,44,36,81.82,4,0,0
+24BCS10042,Student_042,IT,CS302,Database Management Systems,43,31,72.09,5,0,1
+24BCS10042,Student_042,IT,CS303,Operating Systems,39,28,71.79,5,0,1
+24BCS10042,Student_042,IT,CS304,Computer Networks,44,30,68.18,4,0,1
+24BCS10042,Student_042,IT,CS305,Cloud Computing,40,28,70.0,4,0,1
+24BCS10043,Student_043,IT,CS301,Data Structures,44,37,84.09,5,0,0
+24BCS10043,Student_043,IT,CS302,Database Management Systems,39,36,92.31,5,0,0
+24BCS10043,Student_043,IT,CS303,Operating Systems,37,33,89.19,5,0,0
+24BCS10043,Student_043,IT,CS304,Computer Networks,36,31,86.11,3,1,0
+24BCS10043,Student_043,IT,CS305,Cloud Computing,42,37,88.1,5,0,0
+24BCS10044,Student_044,CSE,CS301,Data Structures,41,36,87.8,5,0,0
+24BCS10044,Student_044,CSE,CS302,Database Management Systems,37,32,86.49,3,1,0
+24BCS10044,Student_044,CSE,CS303,Operating Systems,39,37,94.87,5,0,0
+24BCS10044,Student_044,CSE,CS304,Computer Networks,43,43,100.0,5,0,0
+24BCS10044,Student_044,CSE,CS305,Cloud Computing,42,39,92.86,5,0,0
+24BCS10045,Student_045,IT,CS301,Data Structures,36,24,66.67,5,0,1
+24BCS10045,Student_045,IT,CS302,Database Management Systems,43,29,67.44,3,2,1
+24BCS10045,Student_045,IT,CS303,Operating Systems,37,29,78.38,4,0,0
+24BCS10045,Student_045,IT,CS304,Computer Networks,36,30,83.33,5,0,0
+24BCS10045,Student_045,IT,CS305,Cloud Computing,36,24,66.67,4,0,1
+24BCS10046,Student_046,CSE,CS301,Data Structures,38,29,76.32,4,0,0
+24BCS10046,Student_046,CSE,CS302,Database Management Systems,36,28,77.78,5,0,0
+24BCS10046,Student_046,CSE,CS303,Operating Systems,42,33,78.57,5,0,0
+24BCS10046,Student_046,CSE,CS304,Computer Networks,42,30,71.43,5,0,1
+24BCS10046,Student_046,CSE,CS305,Cloud Computing,36,26,72.22,3,2,1
+24BCS10047,Student_047,IT,CS301,Data Structures,39,32,82.05,3,5,0
+24BCS10047,Student_047,IT,CS302,Database Management Systems,42,31,73.81,2,5,1
+24BCS10047,Student_047,IT,CS303,Operating Systems,39,35,89.74,5,0,0
+24BCS10047,Student_047,IT,CS304,Computer Networks,37,29,78.38,3,5,0
+24BCS10047,Student_047,IT,CS305,Cloud Computing,41,33,80.49,3,1,0
+24BCS10048,Student_048,CSE,CS301,Data Structures,41,34,82.93,4,0,0
+24BCS10048,Student_048,CSE,CS302,Database Management Systems,36,30,83.33,3,1,0
+24BCS10048,Student_048,CSE,CS303,Operating Systems,37,33,89.19,5,0,0
+24BCS10048,Student_048,CSE,CS304,Computer Networks,44,41,93.18,5,0,0
+24BCS10048,Student_048,CSE,CS305,Cloud Computing,41,36,87.8,4,0,0
+24BCS10049,Student_049,CSE,CS301,Data Structures,41,41,100.0,5,0,0
+24BCS10049,Student_049,CSE,CS302,Database Management Systems,40,37,92.5,5,0,0
+24BCS10049,Student_049,CSE,CS303,Operating Systems,40,40,100.0,5,0,0
+24BCS10049,Student_049,CSE,CS304,Computer Networks,42,37,88.1,4,0,0
+24BCS10049,Student_049,CSE,CS305,Cloud Computing,37,33,89.19,4,0,0
+24BCS10050,Student_050,CSE-AI,CS301,Data Structures,37,20,54.05,4,0,1
+24BCS10050,Student_050,CSE-AI,CS302,Database Management Systems,36,22,61.11,4,0,1
+24BCS10050,Student_050,CSE-AI,CS303,Operating Systems,40,23,57.5,2,3,1
+24BCS10050,Student_050,CSE-AI,CS304,Computer Networks,39,22,56.41,3,2,1
+24BCS10050,Student_050,CSE-AI,CS305,Cloud Computing,42,28,66.67,3,5,1
+24BCS10051,Student_051,CSE-AI,CS301,Data Structures,38,29,76.32,4,0,0
+24BCS10051,Student_051,CSE-AI,CS302,Database Management Systems,36,35,97.22,5,0,0
+24BCS10051,Student_051,CSE-AI,CS303,Operating Systems,37,31,83.78,5,0,0
+24BCS10051,Student_051,CSE-AI,CS304,Computer Networks,44,35,79.55,4,0,0
+24BCS10051,Student_051,CSE-AI,CS305,Cloud Computing,43,32,74.42,4,0,1
+24BCS10052,Student_052,CSE,CS301,Data Structures,38,34,89.47,5,0,0
+24BCS10052,Student_052,CSE,CS302,Database Management Systems,37,31,83.78,4,0,0
+24BCS10052,Student_052,CSE,CS303,Operating Systems,36,30,83.33,5,0,0
+24BCS10052,Student_052,CSE,CS304,Computer Networks,44,35,79.55,4,0,0
+24BCS10052,Student_052,CSE,CS305,Cloud Computing,43,37,86.05,4,0,0
+24BCS10053,Student_053,CSE-AI,CS301,Data Structures,41,39,95.12,3,2,0
+24BCS10053,Student_053,CSE-AI,CS302,Database Management Systems,44,43,97.73,5,0,0
+24BCS10053,Student_053,CSE-AI,CS303,Operating Systems,42,40,95.24,2,2,0
+24BCS10053,Student_053,CSE-AI,CS304,Computer Networks,40,32,80.0,5,0,0
+24BCS10053,Student_053,CSE-AI,CS305,Cloud Computing,42,37,88.1,5,0,0
+24BCS10054,Student_054,ECE,CS301,Data Structures,42,39,92.86,5,0,0
+24BCS10054,Student_054,ECE,CS302,Database Management Systems,42,39,92.86,5,0,0
+24BCS10054,Student_054,ECE,CS303,Operating Systems,37,34,91.89,4,0,0
+24BCS10054,Student_054,ECE,CS304,Computer Networks,43,36,83.72,4,0,0
+24BCS10054,Student_054,ECE,CS305,Cloud Computing,43,37,86.05,4,0,0
+24BCS10055,Student_055,IT,CS301,Data Structures,37,31,83.78,5,0,0
+24BCS10055,Student_055,IT,CS302,Database Management Systems,37,35,94.59,5,0,0
+24BCS10055,Student_055,IT,CS303,Operating Systems,42,39,92.86,5,0,0
+24BCS10055,Student_055,IT,CS304,Computer Networks,36,32,88.89,4,0,0
+24BCS10055,Student_055,IT,CS305,Cloud Computing,43,34,79.07,5,0,0
+24BCS10056,Student_056,CSE,CS301,Data Structures,39,29,74.36,3,1,1
+24BCS10056,Student_056,CSE,CS302,Database Management Systems,38,26,68.42,2,2,1
+24BCS10056,Student_056,CSE,CS303,Operating Systems,40,31,77.5,5,0,0
+24BCS10056,Student_056,CSE,CS304,Computer Networks,36,28,77.78,5,0,0
+24BCS10056,Student_056,CSE,CS305,Cloud Computing,40,29,72.5,3,3,1
+24BCS10057,Student_057,CSE-AI,CS301,Data Structures,37,34,91.89,5,0,0
+24BCS10057,Student_057,CSE-AI,CS302,Database Management Systems,39,35,89.74,4,0,0
+24BCS10057,Student_057,CSE-AI,CS303,Operating Systems,41,36,87.8,4,0,0
+24BCS10057,Student_057,CSE-AI,CS304,Computer Networks,37,33,89.19,3,5,0
+24BCS10057,Student_057,CSE-AI,CS305,Cloud Computing,40,36,90.0,4,0,0
+24BCS10058,Student_058,CSE,CS301,Data Structures,36,36,100.0,5,0,0
+24BCS10058,Student_058,CSE,CS302,Database Management Systems,38,38,100.0,5,0,0
+24BCS10058,Student_058,CSE,CS303,Operating Systems,38,38,100.0,5,0,0
+24BCS10058,Student_058,CSE,CS304,Computer Networks,43,38,88.37,5,0,0
+24BCS10058,Student_058,CSE,CS305,Cloud Computing,44,42,95.45,5,0,0
+24BCS10059,Student_059,ECE,CS301,Data Structures,44,35,79.55,4,0,0
+24BCS10059,Student_059,ECE,CS302,Database Management Systems,37,26,70.27,4,0,1
+24BCS10059,Student_059,ECE,CS303,Operating Systems,40,30,75.0,5,0,0
+24BCS10059,Student_059,ECE,CS304,Computer Networks,37,29,78.38,3,5,0
+24BCS10059,Student_059,ECE,CS305,Cloud Computing,38,31,81.58,3,2,0
+24BCS10060,Student_060,CSE-AI,CS301,Data Structures,43,38,88.37,4,0,0
+24BCS10060,Student_060,CSE-AI,CS302,Database Management Systems,43,35,81.4,5,0,0
+24BCS10060,Student_060,CSE-AI,CS303,Operating Systems,44,37,84.09,3,4,0
+24BCS10060,Student_060,CSE-AI,CS304,Computer Networks,41,35,85.37,3,1,0
+24BCS10060,Student_060,CSE-AI,CS305,Cloud Computing,38,32,84.21,3,2,0
+24BCS10061,Student_061,CSE,CS301,Data Structures,37,33,89.19,4,0,0
+24BCS10061,Student_061,CSE,CS302,Database Management Systems,42,41,97.62,5,0,0
+24BCS10061,Student_061,CSE,CS303,Operating Systems,37,31,83.78,4,0,0
+24BCS10061,Student_061,CSE,CS304,Computer Networks,43,40,93.02,5,0,0
+24BCS10061,Student_061,CSE,CS305,Cloud Computing,42,40,95.24,5,0,0
+24BCS10062,Student_062,ECE,CS301,Data Structures,40,35,87.5,5,0,0
+24BCS10062,Student_062,ECE,CS302,Database Management Systems,39,38,97.44,4,0,0
+24BCS10062,Student_062,ECE,CS303,Operating Systems,36,33,91.67,4,0,0
+24BCS10062,Student_062,ECE,CS304,Computer Networks,36,31,86.11,4,0,0
+24BCS10062,Student_062,ECE,CS305,Cloud Computing,37,37,100.0,5,0,0
+24BCS10063,Student_063,ECE,CS301,Data Structures,42,35,83.33,5,0,0
+24BCS10063,Student_063,ECE,CS302,Database Management Systems,36,30,83.33,4,0,0
+24BCS10063,Student_063,ECE,CS303,Operating Systems,42,31,73.81,4,0,1
+24BCS10063,Student_063,ECE,CS304,Computer Networks,37,29,78.38,3,5,0
+24BCS10063,Student_063,ECE,CS305,Cloud Computing,39,33,84.62,3,4,0
+24BCS10064,Student_064,CSE-AI,CS301,Data Structures,40,29,72.5,2,5,1
+24BCS10064,Student_064,CSE-AI,CS302,Database Management Systems,39,28,71.79,1,1,1
+24BCS10064,Student_064,CSE-AI,CS303,Operating Systems,41,31,75.61,5,0,0
+24BCS10064,Student_064,CSE-AI,CS304,Computer Networks,38,30,78.95,4,0,0
+24BCS10064,Student_064,CSE-AI,CS305,Cloud Computing,43,33,76.74,5,0,0
+24BCS10065,Student_065,CSE,CS301,Data Structures,42,36,85.71,4,0,0
+24BCS10065,Student_065,CSE,CS302,Database Management Systems,40,39,97.5,5,0,0
+24BCS10065,Student_065,CSE,CS303,Operating Systems,42,39,92.86,5,0,0
+24BCS10065,Student_065,CSE,CS304,Computer Networks,39,36,92.31,5,0,0
+24BCS10065,Student_065,CSE,CS305,Cloud Computing,41,40,97.56,5,0,0
+24BCS10066,Student_066,CSE,CS301,Data Structures,36,28,77.78,5,0,0
+24BCS10066,Student_066,CSE,CS302,Database Management Systems,37,26,70.27,1,3,1
+24BCS10066,Student_066,CSE,CS303,Operating Systems,44,36,81.82,3,1,0
+24BCS10066,Student_066,CSE,CS304,Computer Networks,43,34,79.07,5,0,0
+24BCS10066,Student_066,CSE,CS305,Cloud Computing,44,34,77.27,4,0,0
+24BCS10067,Student_067,CSE,CS301,Data Structures,36,23,63.89,3,2,1
+24BCS10067,Student_067,CSE,CS302,Database Management Systems,36,22,61.11,3,1,1
+24BCS10067,Student_067,CSE,CS303,Operating Systems,39,25,64.1,4,0,1
+24BCS10067,Student_067,CSE,CS304,Computer Networks,42,28,66.67,3,2,1
+24BCS10067,Student_067,CSE,CS305,Cloud Computing,37,22,59.46,5,0,1
+24BCS10068,Student_068,CSE-AI,CS301,Data Structures,44,39,88.64,5,0,0
+24BCS10068,Student_068,CSE-AI,CS302,Database Management Systems,44,38,86.36,4,0,0
+24BCS10068,Student_068,CSE-AI,CS303,Operating Systems,39,33,84.62,5,0,0
+24BCS10068,Student_068,CSE-AI,CS304,Computer Networks,42,36,85.71,4,0,0
+24BCS10068,Student_068,CSE-AI,CS305,Cloud Computing,41,38,92.68,5,0,0
+24BCS10069,Student_069,CSE-AI,CS301,Data Structures,37,37,100.0,5,0,0
+24BCS10069,Student_069,CSE-AI,CS302,Database Management Systems,42,41,97.62,5,0,0
+24BCS10069,Student_069,CSE-AI,CS303,Operating Systems,38,38,100.0,5,0,0
+24BCS10069,Student_069,CSE-AI,CS304,Computer Networks,39,39,100.0,5,0,0
+24BCS10069,Student_069,CSE-AI,CS305,Cloud Computing,38,38,100.0,5,0,0
+24BCS10070,Student_070,CSE,CS301,Data Structures,43,31,72.09,2,3,1
+24BCS10070,Student_070,CSE,CS302,Database Management Systems,38,24,63.16,5,0,1
+24BCS10070,Student_070,CSE,CS303,Operating Systems,36,24,66.67,2,1,1
+24BCS10070,Student_070,CSE,CS304,Computer Networks,40,28,70.0,4,0,1
+24BCS10070,Student_070,CSE,CS305,Cloud Computing,39,28,71.79,3,4,1
+24BCS10071,Student_071,CSE-AI,CS301,Data Structures,44,44,100.0,5,0,0
+24BCS10071,Student_071,CSE-AI,CS302,Database Management Systems,40,40,100.0,5,0,0
+24BCS10071,Student_071,CSE-AI,CS303,Operating Systems,39,33,84.62,4,0,0
+24BCS10071,Student_071,CSE-AI,CS304,Computer Networks,38,36,94.74,5,0,0
+24BCS10071,Student_071,CSE-AI,CS305,Cloud Computing,37,34,91.89,5,0,0
+24BCS10072,Student_072,IT,CS301,Data Structures,42,34,80.95,4,0,0
+24BCS10072,Student_072,IT,CS302,Database Management Systems,37,32,86.49,5,0,0
+24BCS10072,Student_072,IT,CS303,Operating Systems,41,34,82.93,3,1,0
+24BCS10072,Student_072,IT,CS304,Computer Networks,39,31,79.49,4,0,0
+24BCS10072,Student_072,IT,CS305,Cloud Computing,44,38,86.36,5,0,0
+24BCS10073,Student_073,ECE,CS301,Data Structures,43,35,81.4,4,0,0
+24BCS10073,Student_073,ECE,CS302,Database Management Systems,42,31,73.81,5,0,1
+24BCS10073,Student_073,ECE,CS303,Operating Systems,44,35,79.55,4,0,0
+24BCS10073,Student_073,ECE,CS304,Computer Networks,39,33,84.62,5,0,0
+24BCS10073,Student_073,ECE,CS305,Cloud Computing,41,34,82.93,5,0,0
+24BCS10074,Student_074,CSE,CS301,Data Structures,40,39,97.5,5,0,0
+24BCS10074,Student_074,CSE,CS302,Database Management Systems,43,40,93.02,4,0,0
+24BCS10074,Student_074,CSE,CS303,Operating Systems,39,38,97.44,5,0,0
+24BCS10074,Student_074,CSE,CS304,Computer Networks,37,33,89.19,5,0,0
+24BCS10074,Student_074,CSE,CS305,Cloud Computing,36,32,88.89,5,0,0
+24BCS10075,Student_075,CSE-AI,CS301,Data Structures,36,29,80.56,4,0,0
+24BCS10075,Student_075,CSE-AI,CS302,Database Management Systems,39,33,84.62,4,0,0
+24BCS10075,Student_075,CSE-AI,CS303,Operating Systems,37,30,81.08,4,0,0
+24BCS10075,Student_075,CSE-AI,CS304,Computer Networks,41,35,85.37,5,0,0
+24BCS10075,Student_075,CSE-AI,CS305,Cloud Computing,42,31,73.81,5,0,1
+24BCS10076,Student_076,CSE,CS301,Data Structures,41,31,75.61,3,2,0
+24BCS10076,Student_076,CSE,CS302,Database Management Systems,36,26,72.22,3,1,1
+24BCS10076,Student_076,CSE,CS303,Operating Systems,43,36,83.72,4,0,0
+24BCS10076,Student_076,CSE,CS304,Computer Networks,39,26,66.67,3,5,1
+24BCS10076,Student_076,CSE,CS305,Cloud Computing,40,31,77.5,4,0,0
+24BCS10077,Student_077,CSE,CS301,Data Structures,44,35,79.55,3,1,0
+24BCS10077,Student_077,CSE,CS302,Database Management Systems,44,37,84.09,5,0,0
+24BCS10077,Student_077,CSE,CS303,Operating Systems,37,30,81.08,4,0,0
+24BCS10077,Student_077,CSE,CS304,Computer Networks,39,35,89.74,4,0,0
+24BCS10077,Student_077,CSE,CS305,Cloud Computing,44,39,88.64,5,0,0
+24BCS10078,Student_078,ECE,CS301,Data Structures,42,25,59.52,5,0,1
+24BCS10078,Student_078,ECE,CS302,Database Management Systems,36,21,58.33,2,4,1
+24BCS10078,Student_078,ECE,CS303,Operating Systems,44,25,56.82,3,1,1
+24BCS10078,Student_078,ECE,CS304,Computer Networks,38,28,73.68,3,1,1
+24BCS10078,Student_078,ECE,CS305,Cloud Computing,38,27,71.05,3,2,1
+24BCS10079,Student_079,CSE-AI,CS301,Data Structures,40,23,57.5,4,0,1
+24BCS10079,Student_079,CSE-AI,CS302,Database Management Systems,39,28,71.79,3,2,1
+24BCS10079,Student_079,CSE-AI,CS303,Operating Systems,40,27,67.5,4,0,1
+24BCS10079,Student_079,CSE-AI,CS304,Computer Networks,42,28,66.67,4,0,1
+24BCS10079,Student_079,CSE-AI,CS305,Cloud Computing,39,26,66.67,2,3,1
+24BCS10080,Student_080,CSE,CS301,Data Structures,39,24,61.54,3,5,1
+24BCS10080,Student_080,CSE,CS302,Database Management Systems,38,22,57.89,2,2,1
+24BCS10080,Student_080,CSE,CS303,Operating Systems,36,23,63.89,1,2,1
+24BCS10080,Student_080,CSE,CS304,Computer Networks,44,25,56.82,2,5,1
+24BCS10080,Student_080,CSE,CS305,Cloud Computing,42,26,61.9,4,0,1
+24BCS10081,Student_081,IT,CS301,Data Structures,41,29,70.73,4,0,1
+24BCS10081,Student_081,IT,CS302,Database Management Systems,43,29,67.44,5,0,1
+24BCS10081,Student_081,IT,CS303,Operating Systems,41,30,73.17,3,4,1
+24BCS10081,Student_081,IT,CS304,Computer Networks,44,33,75.0,5,0,0
+24BCS10081,Student_081,IT,CS305,Cloud Computing,44,34,77.27,3,1,0
+24BCS10082,Student_082,CSE,CS301,Data Structures,38,29,76.32,3,2,0
+24BCS10082,Student_082,CSE,CS302,Database Management Systems,44,33,75.0,4,0,0
+24BCS10082,Student_082,CSE,CS303,Operating Systems,37,26,70.27,5,0,1
+24BCS10082,Student_082,CSE,CS304,Computer Networks,36,27,75.0,5,0,0
+24BCS10082,Student_082,CSE,CS305,Cloud Computing,36,27,75.0,5,0,0
+24BCS10083,Student_083,CSE,CS301,Data Structures,44,31,70.45,4,0,1
+24BCS10083,Student_083,CSE,CS302,Database Management Systems,44,33,75.0,5,0,0
+24BCS10083,Student_083,CSE,CS303,Operating Systems,40,29,72.5,3,2,1
+24BCS10083,Student_083,CSE,CS304,Computer Networks,41,34,82.93,5,0,0
+24BCS10083,Student_083,CSE,CS305,Cloud Computing,43,31,72.09,5,0,1
+24BCS10084,Student_084,CSE,CS301,Data Structures,42,40,95.24,5,0,0
+24BCS10084,Student_084,CSE,CS302,Database Management Systems,39,33,84.62,5,0,0
+24BCS10084,Student_084,CSE,CS303,Operating Systems,44,36,81.82,4,0,0
+24BCS10084,Student_084,CSE,CS304,Computer Networks,36,32,88.89,5,0,0
+24BCS10084,Student_084,CSE,CS305,Cloud Computing,40,37,92.5,5,0,0
+24BCS10085,Student_085,CSE-AI,CS301,Data Structures,38,28,73.68,5,0,1
+24BCS10085,Student_085,CSE-AI,CS302,Database Management Systems,37,29,78.38,4,0,0
+24BCS10085,Student_085,CSE-AI,CS303,Operating Systems,43,31,72.09,3,2,1
+24BCS10085,Student_085,CSE-AI,CS304,Computer Networks,39,27,69.23,3,2,1
+24BCS10085,Student_085,CSE-AI,CS305,Cloud Computing,44,31,70.45,3,4,1
+24BCS10086,Student_086,CSE,CS301,Data Structures,42,40,95.24,5,0,0
+24BCS10086,Student_086,CSE,CS302,Database Management Systems,43,38,88.37,4,0,0
+24BCS10086,Student_086,CSE,CS303,Operating Systems,39,38,97.44,5,0,0
+24BCS10086,Student_086,CSE,CS304,Computer Networks,37,35,94.59,5,0,0
+24BCS10086,Student_086,CSE,CS305,Cloud Computing,41,39,95.12,5,0,0
+24BCS10087,Student_087,CSE,CS301,Data Structures,37,28,75.68,4,0,0
+24BCS10087,Student_087,CSE,CS302,Database Management Systems,37,29,78.38,4,0,0
+24BCS10087,Student_087,CSE,CS303,Operating Systems,39,32,82.05,5,0,0
+24BCS10087,Student_087,CSE,CS304,Computer Networks,39,31,79.49,4,0,0
+24BCS10087,Student_087,CSE,CS305,Cloud Computing,39,33,84.62,5,0,0
+24BCS10088,Student_088,ECE,CS301,Data Structures,38,31,81.58,4,0,0
+24BCS10088,Student_088,ECE,CS302,Database Management Systems,41,33,80.49,3,5,0
+24BCS10088,Student_088,ECE,CS303,Operating Systems,38,30,78.95,5,0,0
+24BCS10088,Student_088,ECE,CS304,Computer Networks,37,32,86.49,4,0,0
+24BCS10088,Student_088,ECE,CS305,Cloud Computing,41,34,82.93,5,0,0
+24BCS10089,Student_089,CSE-AI,CS301,Data Structures,38,30,78.95,4,0,0
+24BCS10089,Student_089,CSE-AI,CS302,Database Management Systems,44,31,70.45,4,0,1
+24BCS10089,Student_089,CSE-AI,CS303,Operating Systems,39,30,76.92,5,0,0
+24BCS10089,Student_089,CSE-AI,CS304,Computer Networks,39,30,76.92,2,4,1
+24BCS10089,Student_089,CSE-AI,CS305,Cloud Computing,37,26,70.27,4,0,1
+24BCS10090,Student_090,ECE,CS301,Data Structures,38,26,68.42,3,2,1
+24BCS10090,Student_090,ECE,CS302,Database Management Systems,44,28,63.64,1,3,1
+24BCS10090,Student_090,ECE,CS303,Operating Systems,44,27,61.36,4,0,1
+24BCS10090,Student_090,ECE,CS304,Computer Networks,44,26,59.09,4,0,1
+24BCS10090,Student_090,ECE,CS305,Cloud Computing,36,24,66.67,3,1,1
+24BCS10091,Student_091,CSE,CS301,Data Structures,39,28,71.79,4,0,1
+24BCS10091,Student_091,CSE,CS302,Database Management Systems,42,33,78.57,4,0,0
+24BCS10091,Student_091,CSE,CS303,Operating Systems,38,30,78.95,4,0,0
+24BCS10091,Student_091,CSE,CS304,Computer Networks,41,32,78.05,3,2,0
+24BCS10091,Student_091,CSE,CS305,Cloud Computing,40,31,77.5,5,0,0
+24BCS10092,Student_092,CSE,CS301,Data Structures,42,32,76.19,4,0,0
+24BCS10092,Student_092,CSE,CS302,Database Management Systems,40,31,77.5,5,0,0
+24BCS10092,Student_092,CSE,CS303,Operating Systems,40,32,80.0,2,4,0
+24BCS10092,Student_092,CSE,CS304,Computer Networks,36,27,75.0,4,0,0
+24BCS10092,Student_092,CSE,CS305,Cloud Computing,39,27,69.23,4,0,1
+24BCS10093,Student_093,CSE,CS301,Data Structures,38,31,81.58,5,0,0
+24BCS10093,Student_093,CSE,CS302,Database Management Systems,39,34,87.18,3,1,0
+24BCS10093,Student_093,CSE,CS303,Operating Systems,44,41,93.18,5,0,0
+24BCS10093,Student_093,CSE,CS304,Computer Networks,43,41,95.35,5,0,0
+24BCS10093,Student_093,CSE,CS305,Cloud Computing,36,30,83.33,3,2,0
+24BCS10094,Student_094,CSE,CS301,Data Structures,42,38,90.48,4,0,0
+24BCS10094,Student_094,CSE,CS302,Database Management Systems,41,39,95.12,5,0,0
+24BCS10094,Student_094,CSE,CS303,Operating Systems,43,41,95.35,4,0,0
+24BCS10094,Student_094,CSE,CS304,Computer Networks,40,35,87.5,4,0,0
+24BCS10094,Student_094,CSE,CS305,Cloud Computing,43,41,95.35,5,0,0
+24BCS10095,Student_095,IT,CS301,Data Structures,39,31,79.49,4,0,0
+24BCS10095,Student_095,IT,CS302,Database Management Systems,38,25,65.79,4,0,1
+24BCS10095,Student_095,IT,CS303,Operating Systems,40,30,75.0,4,0,0
+24BCS10095,Student_095,IT,CS304,Computer Networks,41,28,68.29,5,0,1
+24BCS10095,Student_095,IT,CS305,Cloud Computing,36,28,77.78,4,0,0
+24BCS10096,Student_096,IT,CS301,Data Structures,37,27,72.97,5,0,1
+24BCS10096,Student_096,IT,CS302,Database Management Systems,39,28,71.79,3,2,1
+24BCS10096,Student_096,IT,CS303,Operating Systems,42,29,69.05,5,0,1
+24BCS10096,Student_096,IT,CS304,Computer Networks,37,23,62.16,3,2,1
+24BCS10096,Student_096,IT,CS305,Cloud Computing,41,26,63.41,3,4,1
+24BCS10097,Student_097,CSE,CS301,Data Structures,43,31,72.09,4,0,1
+24BCS10097,Student_097,CSE,CS302,Database Management Systems,44,31,70.45,2,4,1
+24BCS10097,Student_097,CSE,CS303,Operating Systems,38,26,68.42,2,5,1
+24BCS10097,Student_097,CSE,CS304,Computer Networks,38,25,65.79,2,4,1
+24BCS10097,Student_097,CSE,CS305,Cloud Computing,44,34,77.27,4,0,0
+24BCS10098,Student_098,CSE-AI,CS301,Data Structures,42,39,92.86,5,0,0
+24BCS10098,Student_098,CSE-AI,CS302,Database Management Systems,41,33,80.49,4,0,0
+24BCS10098,Student_098,CSE-AI,CS303,Operating Systems,37,33,89.19,5,0,0
+24BCS10098,Student_098,CSE-AI,CS304,Computer Networks,40,36,90.0,5,0,0
+24BCS10098,Student_098,CSE-AI,CS305,Cloud Computing,38,33,86.84,5,0,0
+24BCS10099,Student_099,CSE,CS301,Data Structures,36,34,94.44,5,0,0
+24BCS10099,Student_099,CSE,CS302,Database Management Systems,41,41,100.0,5,0,0
+24BCS10099,Student_099,CSE,CS303,Operating Systems,44,44,100.0,5,0,0
+24BCS10099,Student_099,CSE,CS304,Computer Networks,43,41,95.35,5,0,0
+24BCS10099,Student_099,CSE,CS305,Cloud Computing,40,39,97.5,4,0,0
+24BCS10100,Student_100,CSE,CS301,Data Structures,37,31,83.78,5,0,0
+24BCS10100,Student_100,CSE,CS302,Database Management Systems,40,35,87.5,5,0,0
+24BCS10100,Student_100,CSE,CS303,Operating Systems,44,40,90.91,5,0,0
+24BCS10100,Student_100,CSE,CS304,Computer Networks,44,37,84.09,4,0,0
+24BCS10100,Student_100,CSE,CS305,Cloud Computing,41,34,82.93,3,1,0
+24BCS10101,Student_101,ECE,CS301,Data Structures,38,23,60.53,2,3,1
+24BCS10101,Student_101,ECE,CS302,Database Management Systems,40,25,62.5,3,2,1
+24BCS10101,Student_101,ECE,CS303,Operating Systems,43,26,60.47,4,0,1
+24BCS10101,Student_101,ECE,CS304,Computer Networks,40,25,62.5,4,0,1
+24BCS10101,Student_101,ECE,CS305,Cloud Computing,36,23,63.89,3,4,1
+24BCS10102,Student_102,CSE-AI,CS301,Data Structures,42,32,76.19,3,2,0
+24BCS10102,Student_102,CSE-AI,CS302,Database Management Systems,37,27,72.97,4,0,1
+24BCS10102,Student_102,CSE-AI,CS303,Operating Systems,38,29,76.32,5,0,0
+24BCS10102,Student_102,CSE-AI,CS304,Computer Networks,41,32,78.05,4,0,0
+24BCS10102,Student_102,CSE-AI,CS305,Cloud Computing,39,28,71.79,5,0,1
+24BCS10103,Student_103,IT,CS301,Data Structures,36,24,66.67,3,3,1
+24BCS10103,Student_103,IT,CS302,Database Management Systems,44,33,75.0,4,0,0
+24BCS10103,Student_103,IT,CS303,Operating Systems,39,30,76.92,4,0,0
+24BCS10103,Student_103,IT,CS304,Computer Networks,41,31,75.61,2,3,1
+24BCS10103,Student_103,IT,CS305,Cloud Computing,36,24,66.67,3,5,1
+24BCS10104,Student_104,CSE-AI,CS301,Data Structures,40,27,67.5,4,0,1
+24BCS10104,Student_104,CSE-AI,CS302,Database Management Systems,40,27,67.5,5,0,1
+24BCS10104,Student_104,CSE-AI,CS303,Operating Systems,39,23,58.97,5,0,1
+24BCS10104,Student_104,CSE-AI,CS304,Computer Networks,42,25,59.52,2,1,1
+24BCS10104,Student_104,CSE-AI,CS305,Cloud Computing,41,30,73.17,4,0,1
+24BCS10105,Student_105,CSE,CS301,Data Structures,44,39,88.64,3,4,0
+24BCS10105,Student_105,CSE,CS302,Database Management Systems,41,35,85.37,3,2,0
+24BCS10105,Student_105,CSE,CS303,Operating Systems,41,35,85.37,5,0,0
+24BCS10105,Student_105,CSE,CS304,Computer Networks,44,38,86.36,5,0,0
+24BCS10105,Student_105,CSE,CS305,Cloud Computing,44,39,88.64,5,0,0
+24BCS10106,Student_106,CSE,CS301,Data Structures,37,29,78.38,3,3,0
+24BCS10106,Student_106,CSE,CS302,Database Management Systems,39,33,84.62,4,0,0
+24BCS10106,Student_106,CSE,CS303,Operating Systems,44,34,77.27,4,0,0
+24BCS10106,Student_106,CSE,CS304,Computer Networks,40,33,82.5,5,0,0
+24BCS10106,Student_106,CSE,CS305,Cloud Computing,43,31,72.09,4,0,1
+24BCS10107,Student_107,CSE,CS301,Data Structures,44,36,81.82,3,1,0
+24BCS10107,Student_107,CSE,CS302,Database Management Systems,36,29,80.56,3,1,0
+24BCS10107,Student_107,CSE,CS303,Operating Systems,36,23,63.89,3,2,1
+24BCS10107,Student_107,CSE,CS304,Computer Networks,36,25,69.44,3,1,1
+24BCS10107,Student_107,CSE,CS305,Cloud Computing,37,27,72.97,5,0,1
+24BCS10108,Student_108,ECE,CS301,Data Structures,43,42,97.67,5,0,0
+24BCS10108,Student_108,ECE,CS302,Database Management Systems,41,40,97.56,5,0,0
+24BCS10108,Student_108,ECE,CS303,Operating Systems,36,36,100.0,5,0,0
+24BCS10108,Student_108,ECE,CS304,Computer Networks,42,42,100.0,5,0,0
+24BCS10108,Student_108,ECE,CS305,Cloud Computing,39,39,100.0,5,0,0
+24BCS10109,Student_109,CSE,CS301,Data Structures,44,35,79.55,4,0,0
+24BCS10109,Student_109,CSE,CS302,Database Management Systems,36,29,80.56,4,0,0
+24BCS10109,Student_109,CSE,CS303,Operating Systems,39,30,76.92,3,4,1
+24BCS10109,Student_109,CSE,CS304,Computer Networks,42,31,73.81,3,3,1
+24BCS10109,Student_109,CSE,CS305,Cloud Computing,43,36,83.72,5,0,0
+24BCS10110,Student_110,CSE,CS301,Data Structures,40,37,92.5,5,0,0
+24BCS10110,Student_110,CSE,CS302,Database Management Systems,42,37,88.1,4,0,0
+24BCS10110,Student_110,CSE,CS303,Operating Systems,37,36,97.3,5,0,0
+24BCS10110,Student_110,CSE,CS304,Computer Networks,39,35,89.74,4,0,0
+24BCS10110,Student_110,CSE,CS305,Cloud Computing,38,36,94.74,4,0,0
+24BCS10111,Student_111,CSE,CS301,Data Structures,42,42,100.0,5,0,0
+24BCS10111,Student_111,CSE,CS302,Database Management Systems,40,40,100.0,5,0,0
+24BCS10111,Student_111,CSE,CS303,Operating Systems,41,41,100.0,5,0,0
+24BCS10111,Student_111,CSE,CS304,Computer Networks,38,38,100.0,5,0,0
+24BCS10111,Student_111,CSE,CS305,Cloud Computing,36,36,100.0,5,0,0
+24BCS10112,Student_112,ECE,CS301,Data Structures,39,39,100.0,5,0,0
+24BCS10112,Student_112,ECE,CS302,Database Management Systems,42,40,95.24,5,0,0
+24BCS10112,Student_112,ECE,CS303,Operating Systems,39,35,89.74,4,0,0
+24BCS10112,Student_112,ECE,CS304,Computer Networks,37,34,91.89,3,4,0
+24BCS10112,Student_112,ECE,CS305,Cloud Computing,44,38,86.36,4,0,0
+24BCS10113,Student_113,CSE-AI,CS301,Data Structures,37,28,75.68,3,4,1
+24BCS10113,Student_113,CSE-AI,CS302,Database Management Systems,44,31,70.45,3,4,1
+24BCS10113,Student_113,CSE-AI,CS303,Operating Systems,40,23,57.5,4,0,1
+24BCS10113,Student_113,CSE-AI,CS304,Computer Networks,36,24,66.67,4,0,1
+24BCS10113,Student_113,CSE-AI,CS305,Cloud Computing,37,25,67.57,3,1,1
+24BCS10114,Student_114,CSE,CS301,Data Structures,38,38,100.0,5,0,0
+24BCS10114,Student_114,CSE,CS302,Database Management Systems,37,37,100.0,5,0,0
+24BCS10114,Student_114,CSE,CS303,Operating Systems,42,39,92.86,5,0,0
+24BCS10114,Student_114,CSE,CS304,Computer Networks,39,39,100.0,5,0,0
+24BCS10114,Student_114,CSE,CS305,Cloud Computing,38,36,94.74,5,0,0
+24BCS10115,Student_115,CSE-AI,CS301,Data Structures,38,25,65.79,3,5,1
+24BCS10115,Student_115,CSE-AI,CS302,Database Management Systems,39,29,74.36,3,2,1
+24BCS10115,Student_115,CSE-AI,CS303,Operating Systems,38,28,73.68,2,3,1
+24BCS10115,Student_115,CSE-AI,CS304,Computer Networks,42,29,69.05,4,0,1
+24BCS10115,Student_115,CSE-AI,CS305,Cloud Computing,39,25,64.1,4,0,1
+24BCS10116,Student_116,CSE,CS301,Data Structures,39,36,92.31,5,0,0
+24BCS10116,Student_116,CSE,CS302,Database Management Systems,43,42,97.67,5,0,0
+24BCS10116,Student_116,CSE,CS303,Operating Systems,44,42,95.45,5,0,0
+24BCS10116,Student_116,CSE,CS304,Computer Networks,38,37,97.37,5,0,0
+24BCS10116,Student_116,CSE,CS305,Cloud Computing,42,42,100.0,5,0,0
+24BCS10117,Student_117,CSE-AI,CS301,Data Structures,38,37,97.37,5,0,0
+24BCS10117,Student_117,CSE-AI,CS302,Database Management Systems,43,38,88.37,5,0,0
+24BCS10117,Student_117,CSE-AI,CS303,Operating Systems,44,42,95.45,5,0,0
+24BCS10117,Student_117,CSE-AI,CS304,Computer Networks,43,39,90.7,5,0,0
+24BCS10117,Student_117,CSE-AI,CS305,Cloud Computing,44,37,84.09,5,0,0
+24BCS10118,Student_118,IT,CS301,Data Structures,41,37,90.24,4,0,0
+24BCS10118,Student_118,IT,CS302,Database Management Systems,42,39,92.86,5,0,0
+24BCS10118,Student_118,IT,CS303,Operating Systems,38,33,86.84,5,0,0
+24BCS10118,Student_118,IT,CS304,Computer Networks,37,35,94.59,5,0,0
+24BCS10118,Student_118,IT,CS305,Cloud Computing,40,36,90.0,4,0,0
+24BCS10119,Student_119,CSE,CS301,Data Structures,43,41,95.35,4,0,0
+24BCS10119,Student_119,CSE,CS302,Database Management Systems,43,34,79.07,4,0,0
+24BCS10119,Student_119,CSE,CS303,Operating Systems,44,42,95.45,5,0,0
+24BCS10119,Student_119,CSE,CS304,Computer Networks,39,39,100.0,5,0,0
+24BCS10119,Student_119,CSE,CS305,Cloud Computing,39,34,87.18,4,0,0
+24BCS10120,Student_120,CSE-AI,CS301,Data Structures,39,29,74.36,4,0,1
+24BCS10120,Student_120,CSE-AI,CS302,Database Management Systems,38,28,73.68,4,0,1
+24BCS10120,Student_120,CSE-AI,CS303,Operating Systems,42,31,73.81,1,1,1
+24BCS10120,Student_120,CSE-AI,CS304,Computer Networks,37,26,70.27,5,0,1
+24BCS10120,Student_120,CSE-AI,CS305,Cloud Computing,43,26,60.47,4,0,1
+24BCS10121,Student_121,CSE-AI,CS301,Data Structures,38,20,52.63,4,0,1
+24BCS10121,Student_121,CSE-AI,CS302,Database Management Systems,38,22,57.89,3,5,1
+24BCS10121,Student_121,CSE-AI,CS303,Operating Systems,41,21,51.22,1,1,1
+24BCS10121,Student_121,CSE-AI,CS304,Computer Networks,43,30,69.77,3,2,1
+24BCS10121,Student_121,CSE-AI,CS305,Cloud Computing,41,26,63.41,1,1,1
+24BCS10122,Student_122,IT,CS301,Data Structures,40,35,87.5,5,0,0
+24BCS10122,Student_122,IT,CS302,Database Management Systems,42,37,88.1,4,0,0
+24BCS10122,Student_122,IT,CS303,Operating Systems,38,34,89.47,5,0,0
+24BCS10122,Student_122,IT,CS304,Computer Networks,36,35,97.22,5,0,0
+24BCS10122,Student_122,IT,CS305,Cloud Computing,40,35,87.5,5,0,0
+24BCS10123,Student_123,CSE-AI,CS301,Data Structures,40,35,87.5,5,0,0
+24BCS10123,Student_123,CSE-AI,CS302,Database Management Systems,42,41,97.62,5,0,0
+24BCS10123,Student_123,CSE-AI,CS303,Operating Systems,39,37,94.87,5,0,0
+24BCS10123,Student_123,CSE-AI,CS304,Computer Networks,37,36,97.3,5,0,0
+24BCS10123,Student_123,CSE-AI,CS305,Cloud Computing,40,38,95.0,5,0,0
+24BCS10124,Student_124,CSE,CS301,Data Structures,38,30,78.95,4,0,0
+24BCS10124,Student_124,CSE,CS302,Database Management Systems,42,37,88.1,4,0,0
+24BCS10124,Student_124,CSE,CS303,Operating Systems,38,28,73.68,4,0,1
+24BCS10124,Student_124,CSE,CS304,Computer Networks,37,29,78.38,4,0,0
+24BCS10124,Student_124,CSE,CS305,Cloud Computing,40,31,77.5,3,3,1
+24BCS10125,Student_125,CSE-AI,CS301,Data Structures,36,21,58.33,4,0,1
+24BCS10125,Student_125,CSE-AI,CS302,Database Management Systems,40,25,62.5,4,0,1
+24BCS10125,Student_125,CSE-AI,CS303,Operating Systems,42,24,57.14,2,4,1
+24BCS10125,Student_125,CSE-AI,CS304,Computer Networks,40,24,60.0,2,1,1
+24BCS10125,Student_125,CSE-AI,CS305,Cloud Computing,40,28,70.0,2,4,1
+24BCS10126,Student_126,CSE,CS301,Data Structures,44,26,59.09,3,3,1
+24BCS10126,Student_126,CSE,CS302,Database Management Systems,44,31,70.45,4,0,1
+24BCS10126,Student_126,CSE,CS303,Operating Systems,37,26,70.27,4,0,1
+24BCS10126,Student_126,CSE,CS304,Computer Networks,40,28,70.0,3,4,1
+24BCS10126,Student_126,CSE,CS305,Cloud Computing,38,27,71.05,5,0,1
+24BCS10127,Student_127,CSE-AI,CS301,Data Structures,36,26,72.22,5,0,1
+24BCS10127,Student_127,CSE-AI,CS302,Database Management Systems,40,29,72.5,3,1,1
+24BCS10127,Student_127,CSE-AI,CS303,Operating Systems,39,26,66.67,4,0,1
+24BCS10127,Student_127,CSE-AI,CS304,Computer Networks,37,23,62.16,3,3,1
+24BCS10127,Student_127,CSE-AI,CS305,Cloud Computing,39,26,66.67,5,0,1
+24BCS10128,Student_128,CSE,CS301,Data Structures,38,32,84.21,5,0,0
+24BCS10128,Student_128,CSE,CS302,Database Management Systems,40,33,82.5,5,0,0
+24BCS10128,Student_128,CSE,CS303,Operating Systems,40,31,77.5,4,0,0
+24BCS10128,Student_128,CSE,CS304,Computer Networks,41,35,85.37,2,5,0
+24BCS10128,Student_128,CSE,CS305,Cloud Computing,39,32,82.05,5,0,0
+24BCS10129,Student_129,ECE,CS301,Data Structures,41,37,90.24,5,0,0
+24BCS10129,Student_129,ECE,CS302,Database Management Systems,42,38,90.48,5,0,0
+24BCS10129,Student_129,ECE,CS303,Operating Systems,38,37,97.37,5,0,0
+24BCS10129,Student_129,ECE,CS304,Computer Networks,40,37,92.5,3,4,0
+24BCS10129,Student_129,ECE,CS305,Cloud Computing,38,36,94.74,5,0,0
+24BCS10130,Student_130,CSE-AI,CS301,Data Structures,36,28,77.78,3,2,0
+24BCS10130,Student_130,CSE-AI,CS302,Database Management Systems,43,35,81.4,4,0,0
+24BCS10130,Student_130,CSE-AI,CS303,Operating Systems,42,30,71.43,4,0,1
+24BCS10130,Student_130,CSE-AI,CS304,Computer Networks,40,35,87.5,5,0,0
+24BCS10130,Student_130,CSE-AI,CS305,Cloud Computing,40,27,67.5,3,5,1
+24BCS10131,Student_131,CSE-AI,CS301,Data Structures,43,32,74.42,4,0,1
+24BCS10131,Student_131,CSE-AI,CS302,Database Management Systems,41,30,73.17,1,4,1
+24BCS10131,Student_131,CSE-AI,CS303,Operating Systems,39,26,66.67,2,2,1
+24BCS10131,Student_131,CSE-AI,CS304,Computer Networks,39,27,69.23,3,3,1
+24BCS10131,Student_131,CSE-AI,CS305,Cloud Computing,44,31,70.45,4,0,1
+24BCS10132,Student_132,IT,CS301,Data Structures,38,32,84.21,4,0,0
+24BCS10132,Student_132,IT,CS302,Database Management Systems,39,31,79.49,1,4,0
+24BCS10132,Student_132,IT,CS303,Operating Systems,36,31,86.11,4,0,0
+24BCS10132,Student_132,IT,CS304,Computer Networks,36,28,77.78,4,0,0
+24BCS10132,Student_132,IT,CS305,Cloud Computing,42,36,85.71,5,0,0
+24BCS10133,Student_133,CSE-AI,CS301,Data Structures,41,40,97.56,5,0,0
+24BCS10133,Student_133,CSE-AI,CS302,Database Management Systems,40,40,100.0,5,0,0
+24BCS10133,Student_133,CSE-AI,CS303,Operating Systems,43,39,90.7,5,0,0
+24BCS10133,Student_133,CSE-AI,CS304,Computer Networks,38,34,89.47,5,0,0
+24BCS10133,Student_133,CSE-AI,CS305,Cloud Computing,36,35,97.22,5,0,0
+24BCS10134,Student_134,CSE-AI,CS301,Data Structures,38,32,84.21,4,0,0
+24BCS10134,Student_134,CSE-AI,CS302,Database Management Systems,43,39,90.7,5,0,0
+24BCS10134,Student_134,CSE-AI,CS303,Operating Systems,39,31,79.49,4,0,0
+24BCS10134,Student_134,CSE-AI,CS304,Computer Networks,41,35,85.37,4,0,0
+24BCS10134,Student_134,CSE-AI,CS305,Cloud Computing,37,27,72.97,5,0,1
+24BCS10135,Student_135,CSE,CS301,Data Structures,36,32,88.89,5,0,0
+24BCS10135,Student_135,CSE,CS302,Database Management Systems,41,32,78.05,5,0,0
+24BCS10135,Student_135,CSE,CS303,Operating Systems,42,34,80.95,4,0,0
+24BCS10135,Student_135,CSE,CS304,Computer Networks,42,35,83.33,3,5,0
+24BCS10135,Student_135,CSE,CS305,Cloud Computing,42,37,88.1,5,0,0
+24BCS10136,Student_136,CSE,CS301,Data Structures,40,33,82.5,5,0,0
+24BCS10136,Student_136,CSE,CS302,Database Management Systems,38,29,76.32,3,2,0
+24BCS10136,Student_136,CSE,CS303,Operating Systems,39,33,84.62,4,0,0
+24BCS10136,Student_136,CSE,CS304,Computer Networks,39,33,84.62,4,0,0
+24BCS10136,Student_136,CSE,CS305,Cloud Computing,39,36,92.31,5,0,0
+24BCS10137,Student_137,CSE,CS301,Data Structures,42,30,71.43,3,4,1
+24BCS10137,Student_137,CSE,CS302,Database Management Systems,42,31,73.81,4,0,1
+24BCS10137,Student_137,CSE,CS303,Operating Systems,36,27,75.0,4,0,0
+24BCS10137,Student_137,CSE,CS304,Computer Networks,36,24,66.67,4,0,1
+24BCS10137,Student_137,CSE,CS305,Cloud Computing,41,29,70.73,2,2,1
+24BCS10138,Student_138,CSE-AI,CS301,Data Structures,44,38,86.36,5,0,0
+24BCS10138,Student_138,CSE-AI,CS302,Database Management Systems,38,35,92.11,5,0,0
+24BCS10138,Student_138,CSE-AI,CS303,Operating Systems,37,32,86.49,3,5,0
+24BCS10138,Student_138,CSE-AI,CS304,Computer Networks,38,32,84.21,3,5,0
+24BCS10138,Student_138,CSE-AI,CS305,Cloud Computing,36,32,88.89,4,0,0
+24BCS10139,Student_139,CSE-AI,CS301,Data Structures,43,39,90.7,4,0,0
+24BCS10139,Student_139,CSE-AI,CS302,Database Management Systems,42,42,100.0,5,0,0
+24BCS10139,Student_139,CSE-AI,CS303,Operating Systems,43,41,95.35,5,0,0
+24BCS10139,Student_139,CSE-AI,CS304,Computer Networks,36,36,100.0,5,0,0
+24BCS10139,Student_139,CSE-AI,CS305,Cloud Computing,39,39,100.0,5,0,0
+24BCS10140,Student_140,CSE-AI,CS301,Data Structures,42,32,76.19,4,0,0
+24BCS10140,Student_140,CSE-AI,CS302,Database Management Systems,44,33,75.0,3,3,1
+24BCS10140,Student_140,CSE-AI,CS303,Operating Systems,44,35,79.55,5,0,0
+24BCS10140,Student_140,CSE-AI,CS304,Computer Networks,44,35,79.55,4,0,0
+24BCS10140,Student_140,CSE-AI,CS305,Cloud Computing,37,27,72.97,4,0,1
+24BCS10141,Student_141,CSE-AI,CS301,Data Structures,36,33,91.67,4,0,0
+24BCS10141,Student_141,CSE-AI,CS302,Database Management Systems,42,36,85.71,5,0,0
+24BCS10141,Student_141,CSE-AI,CS303,Operating Systems,42,41,97.62,5,0,0
+24BCS10141,Student_141,CSE-AI,CS304,Computer Networks,38,37,97.37,5,0,0
+24BCS10141,Student_141,CSE-AI,CS305,Cloud Computing,43,37,86.05,4,0,0
+24BCS10142,Student_142,CSE-AI,CS301,Data Structures,41,39,95.12,5,0,0
+24BCS10142,Student_142,CSE-AI,CS302,Database Management Systems,40,35,87.5,3,2,0
+24BCS10142,Student_142,CSE-AI,CS303,Operating Systems,41,39,95.12,5,0,0
+24BCS10142,Student_142,CSE-AI,CS304,Computer Networks,38,30,78.95,4,0,0
+24BCS10142,Student_142,CSE-AI,CS305,Cloud Computing,41,37,90.24,5,0,0
+24BCS10143,Student_143,IT,CS301,Data Structures,42,39,92.86,4,0,0
+24BCS10143,Student_143,IT,CS302,Database Management Systems,36,36,100.0,5,0,0
+24BCS10143,Student_143,IT,CS303,Operating Systems,40,39,97.5,5,0,0
+24BCS10143,Student_143,IT,CS304,Computer Networks,44,42,95.45,5,0,0
+24BCS10143,Student_143,IT,CS305,Cloud Computing,40,37,92.5,5,0,0
+24BCS10144,Student_144,IT,CS301,Data Structures,40,33,82.5,4,0,0
+24BCS10144,Student_144,IT,CS302,Database Management Systems,42,38,90.48,5,0,0
+24BCS10144,Student_144,IT,CS303,Operating Systems,43,39,90.7,4,0,0
+24BCS10144,Student_144,IT,CS304,Computer Networks,44,37,84.09,5,0,0
+24BCS10144,Student_144,IT,CS305,Cloud Computing,43,36,83.72,5,0,0
+24BCS10145,Student_145,CSE,CS301,Data Structures,42,30,71.43,3,4,1
+24BCS10145,Student_145,CSE,CS302,Database Management Systems,43,34,79.07,2,4,0
+24BCS10145,Student_145,CSE,CS303,Operating Systems,41,33,80.49,4,0,0
+24BCS10145,Student_145,CSE,CS304,Computer Networks,42,34,80.95,3,5,0
+24BCS10145,Student_145,CSE,CS305,Cloud Computing,38,28,73.68,5,0,1
+24BCS10146,Student_146,IT,CS301,Data Structures,36,27,75.0,4,0,0
+24BCS10146,Student_146,IT,CS302,Database Management Systems,39,28,71.79,4,0,1
+24BCS10146,Student_146,IT,CS303,Operating Systems,44,27,61.36,3,2,1
+24BCS10146,Student_146,IT,CS304,Computer Networks,36,24,66.67,4,0,1
+24BCS10146,Student_146,IT,CS305,Cloud Computing,43,30,69.77,5,0,1
+24BCS10147,Student_147,ECE,CS301,Data Structures,40,26,65.0,1,2,1
+24BCS10147,Student_147,ECE,CS302,Database Management Systems,38,24,63.16,4,0,1
+24BCS10147,Student_147,ECE,CS303,Operating Systems,36,21,58.33,4,0,1
+24BCS10147,Student_147,ECE,CS304,Computer Networks,37,23,62.16,1,4,1
+24BCS10147,Student_147,ECE,CS305,Cloud Computing,38,25,65.79,3,3,1
+24BCS10148,Student_148,ECE,CS301,Data Structures,44,29,65.91,2,2,1
+24BCS10148,Student_148,ECE,CS302,Database Management Systems,41,27,65.85,2,2,1
+24BCS10148,Student_148,ECE,CS303,Operating Systems,36,22,61.11,1,5,1
+24BCS10148,Student_148,ECE,CS304,Computer Networks,37,23,62.16,2,4,1
+24BCS10148,Student_148,ECE,CS305,Cloud Computing,36,24,66.67,3,1,1
+24BCS10149,Student_149,CSE,CS301,Data Structures,41,41,100.0,5,0,0
+24BCS10149,Student_149,CSE,CS302,Database Management Systems,40,36,90.0,5,0,0
+24BCS10149,Student_149,CSE,CS303,Operating Systems,37,37,100.0,5,0,0
+24BCS10149,Student_149,CSE,CS304,Computer Networks,41,39,95.12,5,0,0
+24BCS10149,Student_149,CSE,CS305,Cloud Computing,39,38,97.44,5,0,0
+24BCS10150,Student_150,CSE,CS301,Data Structures,40,23,57.5,5,0,1
+24BCS10150,Student_150,CSE,CS302,Database Management Systems,38,25,65.79,4,0,1
+24BCS10150,Student_150,CSE,CS303,Operating Systems,37,26,70.27,1,5,1
+24BCS10150,Student_150,CSE,CS304,Computer Networks,39,22,56.41,2,1,1
+24BCS10150,Student_150,CSE,CS305,Cloud Computing,39,29,74.36,5,0,1
+24BCS10151,Student_151,CSE-AI,CS301,Data Structures,39,31,79.49,4,0,0
+24BCS10151,Student_151,CSE-AI,CS302,Database Management Systems,43,34,79.07,3,3,0
+24BCS10151,Student_151,CSE-AI,CS303,Operating Systems,42,38,90.48,4,0,0
+24BCS10151,Student_151,CSE-AI,CS304,Computer Networks,42,31,73.81,3,2,1
+24BCS10151,Student_151,CSE-AI,CS305,Cloud Computing,39,32,82.05,4,0,0
+24BCS10152,Student_152,CSE,CS301,Data Structures,38,26,68.42,3,4,1
+24BCS10152,Student_152,CSE,CS302,Database Management Systems,44,26,59.09,2,1,1
+24BCS10152,Student_152,CSE,CS303,Operating Systems,38,24,63.16,5,0,1
+24BCS10152,Student_152,CSE,CS304,Computer Networks,43,28,65.12,2,2,1
+24BCS10152,Student_152,CSE,CS305,Cloud Computing,44,32,72.73,4,0,1
+24BCS10153,Student_153,CSE,CS301,Data Structures,40,34,85.0,4,0,0
+24BCS10153,Student_153,CSE,CS302,Database Management Systems,44,36,81.82,5,0,0
+24BCS10153,Student_153,CSE,CS303,Operating Systems,44,38,86.36,3,5,0
+24BCS10153,Student_153,CSE,CS304,Computer Networks,39,34,87.18,4,0,0
+24BCS10153,Student_153,CSE,CS305,Cloud Computing,40,32,80.0,3,2,0
+24BCS10154,Student_154,CSE,CS301,Data Structures,38,34,89.47,5,0,0
+24BCS10154,Student_154,CSE,CS302,Database Management Systems,41,36,87.8,4,0,0
+24BCS10154,Student_154,CSE,CS303,Operating Systems,41,38,92.68,5,0,0
+24BCS10154,Student_154,CSE,CS304,Computer Networks,36,32,88.89,4,0,0
+24BCS10154,Student_154,CSE,CS305,Cloud Computing,37,32,86.49,4,0,0
+24BCS10155,Student_155,CSE-AI,CS301,Data Structures,39,31,79.49,4,0,0
+24BCS10155,Student_155,CSE-AI,CS302,Database Management Systems,40,38,95.0,5,0,0
+24BCS10155,Student_155,CSE-AI,CS303,Operating Systems,38,34,89.47,5,0,0
+24BCS10155,Student_155,CSE-AI,CS304,Computer Networks,44,36,81.82,5,0,0
+24BCS10155,Student_155,CSE-AI,CS305,Cloud Computing,42,37,88.1,5,0,0
+24BCS10156,Student_156,ECE,CS301,Data Structures,44,43,97.73,5,0,0
+24BCS10156,Student_156,ECE,CS302,Database Management Systems,44,40,90.91,5,0,0
+24BCS10156,Student_156,ECE,CS303,Operating Systems,39,34,87.18,5,0,0
+24BCS10156,Student_156,ECE,CS304,Computer Networks,36,35,97.22,5,0,0
+24BCS10156,Student_156,ECE,CS305,Cloud Computing,42,41,97.62,5,0,0
+24BCS10157,Student_157,CSE,CS301,Data Structures,39,31,79.49,4,0,0
+24BCS10157,Student_157,CSE,CS302,Database Management Systems,38,35,92.11,4,0,0
+24BCS10157,Student_157,CSE,CS303,Operating Systems,36,35,97.22,4,0,0
+24BCS10157,Student_157,CSE,CS304,Computer Networks,42,42,100.0,5,0,0
+24BCS10157,Student_157,CSE,CS305,Cloud Computing,44,40,90.91,5,0,0
+24BCS10158,Student_158,CSE-AI,CS301,Data Structures,41,24,58.54,4,0,1
+24BCS10158,Student_158,CSE-AI,CS302,Database Management Systems,38,24,63.16,3,4,1
+24BCS10158,Student_158,CSE-AI,CS303,Operating Systems,42,26,61.9,4,0,1
+24BCS10158,Student_158,CSE-AI,CS304,Computer Networks,41,27,65.85,4,0,1
+24BCS10158,Student_158,CSE-AI,CS305,Cloud Computing,43,28,65.12,2,2,1
+24BCS10159,Student_159,IT,CS301,Data Structures,36,28,77.78,5,0,0
+24BCS10159,Student_159,IT,CS302,Database Management Systems,40,29,72.5,3,1,1
+24BCS10159,Student_159,IT,CS303,Operating Systems,40,28,70.0,3,5,1
+24BCS10159,Student_159,IT,CS304,Computer Networks,41,30,73.17,5,0,1
+24BCS10159,Student_159,IT,CS305,Cloud Computing,44,31,70.45,3,5,1
+24BCS10160,Student_160,CSE,CS301,Data Structures,36,25,69.44,3,3,1
+24BCS10160,Student_160,CSE,CS302,Database Management Systems,41,32,78.05,3,2,0
+24BCS10160,Student_160,CSE,CS303,Operating Systems,36,27,75.0,5,0,0
+24BCS10160,Student_160,CSE,CS304,Computer Networks,40,30,75.0,5,0,0
+24BCS10160,Student_160,CSE,CS305,Cloud Computing,39,30,76.92,4,0,0
+24BCS10161,Student_161,CSE,CS301,Data Structures,37,23,62.16,3,2,1
+24BCS10161,Student_161,CSE,CS302,Database Management Systems,43,28,65.12,3,3,1
+24BCS10161,Student_161,CSE,CS303,Operating Systems,41,27,65.85,5,0,1
+24BCS10161,Student_161,CSE,CS304,Computer Networks,44,29,65.91,3,2,1
+24BCS10161,Student_161,CSE,CS305,Cloud Computing,40,24,60.0,5,0,1
+24BCS10162,Student_162,ECE,CS301,Data Structures,36,30,83.33,4,0,0
+24BCS10162,Student_162,ECE,CS302,Database Management Systems,41,35,85.37,4,0,0
+24BCS10162,Student_162,ECE,CS303,Operating Systems,39,33,84.62,3,2,0
+24BCS10162,Student_162,ECE,CS304,Computer Networks,44,41,93.18,5,0,0
+24BCS10162,Student_162,ECE,CS305,Cloud Computing,41,38,92.68,5,0,0
+24BCS10163,Student_163,CSE,CS301,Data Structures,39,31,79.49,3,1,0
+24BCS10163,Student_163,CSE,CS302,Database Management Systems,39,34,87.18,4,0,0
+24BCS10163,Student_163,CSE,CS303,Operating Systems,41,37,90.24,3,1,0
+24BCS10163,Student_163,CSE,CS304,Computer Networks,37,29,78.38,3,5,0
+24BCS10163,Student_163,CSE,CS305,Cloud Computing,44,39,88.64,5,0,0
+24BCS10164,Student_164,CSE,CS301,Data Structures,38,37,97.37,5,0,0
+24BCS10164,Student_164,CSE,CS302,Database Management Systems,36,36,100.0,5,0,0
+24BCS10164,Student_164,CSE,CS303,Operating Systems,43,43,100.0,5,0,0
+24BCS10164,Student_164,CSE,CS304,Computer Networks,40,40,100.0,5,0,0
+24BCS10164,Student_164,CSE,CS305,Cloud Computing,36,36,100.0,5,0,0
+24BCS10165,Student_165,CSE,CS301,Data Structures,36,35,97.22,5,0,0
+24BCS10165,Student_165,CSE,CS302,Database Management Systems,37,34,91.89,4,0,0
+24BCS10165,Student_165,CSE,CS303,Operating Systems,38,35,92.11,5,0,0
+24BCS10165,Student_165,CSE,CS304,Computer Networks,43,43,100.0,5,0,0
+24BCS10165,Student_165,CSE,CS305,Cloud Computing,43,40,93.02,3,3,0
+24BCS10166,Student_166,IT,CS301,Data Structures,44,28,63.64,4,0,1
+24BCS10166,Student_166,IT,CS302,Database Management Systems,36,24,66.67,3,5,1
+24BCS10166,Student_166,IT,CS303,Operating Systems,37,26,70.27,3,3,1
+24BCS10166,Student_166,IT,CS304,Computer Networks,41,24,58.54,2,5,1
+24BCS10166,Student_166,IT,CS305,Cloud Computing,37,21,56.76,2,3,1
+24BCS10167,Student_167,CSE-AI,CS301,Data Structures,42,33,78.57,5,0,0
+24BCS10167,Student_167,CSE-AI,CS302,Database Management Systems,41,37,90.24,5,0,0
+24BCS10167,Student_167,CSE-AI,CS303,Operating Systems,44,35,79.55,5,0,0
+24BCS10167,Student_167,CSE-AI,CS304,Computer Networks,41,35,85.37,4,0,0
+24BCS10167,Student_167,CSE-AI,CS305,Cloud Computing,40,32,80.0,3,3,0
+24BCS10168,Student_168,IT,CS301,Data Structures,40,30,75.0,5,0,0
+24BCS10168,Student_168,IT,CS302,Database Management Systems,43,28,65.12,3,2,1
+24BCS10168,Student_168,IT,CS303,Operating Systems,39,29,74.36,3,5,1
+24BCS10168,Student_168,IT,CS304,Computer Networks,42,32,76.19,3,2,0
+24BCS10168,Student_168,IT,CS305,Cloud Computing,36,25,69.44,4,0,1
+24BCS10169,Student_169,ECE,CS301,Data Structures,38,31,81.58,5,0,0
+24BCS10169,Student_169,ECE,CS302,Database Management Systems,44,42,95.45,4,0,0
+24BCS10169,Student_169,ECE,CS303,Operating Systems,42,41,97.62,5,0,0
+24BCS10169,Student_169,ECE,CS304,Computer Networks,44,36,81.82,4,0,0
+24BCS10169,Student_169,ECE,CS305,Cloud Computing,39,34,87.18,5,0,0
+24BCS10170,Student_170,CSE,CS301,Data Structures,37,36,97.3,5,0,0
+24BCS10170,Student_170,CSE,CS302,Database Management Systems,41,36,87.8,5,0,0
+24BCS10170,Student_170,CSE,CS303,Operating Systems,39,33,84.62,5,0,0
+24BCS10170,Student_170,CSE,CS304,Computer Networks,42,38,90.48,5,0,0
+24BCS10170,Student_170,CSE,CS305,Cloud Computing,43,38,88.37,4,0,0
+24BCS10171,Student_171,CSE-AI,CS301,Data Structures,38,21,55.26,2,2,1
+24BCS10171,Student_171,CSE-AI,CS302,Database Management Systems,36,22,61.11,3,1,1
+24BCS10171,Student_171,CSE-AI,CS303,Operating Systems,37,22,59.46,5,0,1
+24BCS10171,Student_171,CSE-AI,CS304,Computer Networks,36,24,66.67,4,0,1
+24BCS10171,Student_171,CSE-AI,CS305,Cloud Computing,43,27,62.79,3,5,1
+24BCS10172,Student_172,CSE,CS301,Data Structures,36,29,80.56,2,1,0
+24BCS10172,Student_172,CSE,CS302,Database Management Systems,36,30,83.33,4,0,0
+24BCS10172,Student_172,CSE,CS303,Operating Systems,38,31,81.58,4,0,0
+24BCS10172,Student_172,CSE,CS304,Computer Networks,40,33,82.5,3,4,0
+24BCS10172,Student_172,CSE,CS305,Cloud Computing,44,33,75.0,4,0,0
+24BCS10173,Student_173,IT,CS301,Data Structures,38,33,86.84,5,0,0
+24BCS10173,Student_173,IT,CS302,Database Management Systems,41,34,82.93,5,0,0
+24BCS10173,Student_173,IT,CS303,Operating Systems,37,34,91.89,5,0,0
+24BCS10173,Student_173,IT,CS304,Computer Networks,38,32,84.21,4,0,0
+24BCS10173,Student_173,IT,CS305,Cloud Computing,37,31,83.78,3,2,0
+24BCS10174,Student_174,CSE,CS301,Data Structures,44,36,81.82,4,0,0
+24BCS10174,Student_174,CSE,CS302,Database Management Systems,39,29,74.36,4,0,1
+24BCS10174,Student_174,CSE,CS303,Operating Systems,41,32,78.05,4,0,0
+24BCS10174,Student_174,CSE,CS304,Computer Networks,38,28,73.68,4,0,1
+24BCS10174,Student_174,CSE,CS305,Cloud Computing,42,30,71.43,4,0,1
+24BCS10175,Student_175,CSE-AI,CS301,Data Structures,37,36,97.3,5,0,0
+24BCS10175,Student_175,CSE-AI,CS302,Database Management Systems,36,35,97.22,5,0,0
+24BCS10175,Student_175,CSE-AI,CS303,Operating Systems,43,36,83.72,4,0,0
+24BCS10175,Student_175,CSE-AI,CS304,Computer Networks,44,36,81.82,4,0,0
+24BCS10175,Student_175,CSE-AI,CS305,Cloud Computing,42,42,100.0,5,0,0
+24BCS10176,Student_176,IT,CS301,Data Structures,44,35,79.55,4,0,0
+24BCS10176,Student_176,IT,CS302,Database Management Systems,41,30,73.17,3,3,1
+24BCS10176,Student_176,IT,CS303,Operating Systems,40,29,72.5,3,4,1
+24BCS10176,Student_176,IT,CS304,Computer Networks,40,32,80.0,5,0,0
+24BCS10176,Student_176,IT,CS305,Cloud Computing,41,30,73.17,4,0,1
+24BCS10177,Student_177,CSE-AI,CS301,Data Structures,37,29,78.38,4,0,0
+24BCS10177,Student_177,CSE-AI,CS302,Database Management Systems,36,29,80.56,4,0,0
+24BCS10177,Student_177,CSE-AI,CS303,Operating Systems,42,36,85.71,4,0,0
+24BCS10177,Student_177,CSE-AI,CS304,Computer Networks,36,32,88.89,5,0,0
+24BCS10177,Student_177,CSE-AI,CS305,Cloud Computing,41,33,80.49,3,5,0
+24BCS10178,Student_178,CSE,CS301,Data Structures,39,27,69.23,2,2,1
+24BCS10178,Student_178,CSE,CS302,Database Management Systems,42,32,76.19,4,0,0
+24BCS10178,Student_178,CSE,CS303,Operating Systems,42,31,73.81,5,0,1
+24BCS10178,Student_178,CSE,CS304,Computer Networks,39,30,76.92,5,0,0
+24BCS10178,Student_178,CSE,CS305,Cloud Computing,43,33,76.74,5,0,0
+24BCS10179,Student_179,CSE,CS301,Data Structures,43,33,76.74,3,1,0
+24BCS10179,Student_179,CSE,CS302,Database Management Systems,43,37,86.05,4,0,0
+24BCS10179,Student_179,CSE,CS303,Operating Systems,42,33,78.57,1,2,0
+24BCS10179,Student_179,CSE,CS304,Computer Networks,37,33,89.19,4,0,0
+24BCS10179,Student_179,CSE,CS305,Cloud Computing,41,36,87.8,5,0,0
+24BCS10180,Student_180,ECE,CS301,Data Structures,38,34,89.47,2,3,0
+24BCS10180,Student_180,ECE,CS302,Database Management Systems,36,33,91.67,5,0,0
+24BCS10180,Student_180,ECE,CS303,Operating Systems,40,40,100.0,5,0,0
+24BCS10180,Student_180,ECE,CS304,Computer Networks,41,36,87.8,5,0,0
+24BCS10180,Student_180,ECE,CS305,Cloud Computing,38,38,100.0,5,0,0
+24BCS10181,Student_181,CSE,CS301,Data Structures,39,22,56.41,0,3,1
+24BCS10181,Student_181,CSE,CS302,Database Management Systems,37,22,59.46,4,0,1
+24BCS10181,Student_181,CSE,CS303,Operating Systems,38,27,71.05,2,3,1
+24BCS10181,Student_181,CSE,CS304,Computer Networks,37,24,64.86,4,0,1
+24BCS10181,Student_181,CSE,CS305,Cloud Computing,38,20,52.63,3,2,1
+24BCS10182,Student_182,CSE-AI,CS301,Data Structures,44,41,93.18,5,0,0
+24BCS10182,Student_182,CSE-AI,CS302,Database Management Systems,37,34,91.89,5,0,0
+24BCS10182,Student_182,CSE-AI,CS303,Operating Systems,40,34,85.0,4,0,0
+24BCS10182,Student_182,CSE-AI,CS304,Computer Networks,42,39,92.86,5,0,0
+24BCS10182,Student_182,CSE-AI,CS305,Cloud Computing,41,38,92.68,5,0,0
+24BCS10183,Student_183,CSE-AI,CS301,Data Structures,41,29,70.73,4,0,1
+24BCS10183,Student_183,CSE-AI,CS302,Database Management Systems,36,24,66.67,5,0,1
+24BCS10183,Student_183,CSE-AI,CS303,Operating Systems,36,25,69.44,3,3,1
+24BCS10183,Student_183,CSE-AI,CS304,Computer Networks,43,27,62.79,3,5,1
+24BCS10183,Student_183,CSE-AI,CS305,Cloud Computing,37,31,83.78,4,0,0
+24BCS10184,Student_184,CSE,CS301,Data Structures,43,37,86.05,5,0,0
+24BCS10184,Student_184,CSE,CS302,Database Management Systems,41,33,80.49,5,0,0
+24BCS10184,Student_184,CSE,CS303,Operating Systems,36,30,83.33,4,0,0
+24BCS10184,Student_184,CSE,CS304,Computer Networks,39,34,87.18,4,0,0
+24BCS10184,Student_184,CSE,CS305,Cloud Computing,43,33,76.74,5,0,0
+24BCS10185,Student_185,IT,CS301,Data Structures,38,33,86.84,5,0,0
+24BCS10185,Student_185,IT,CS302,Database Management Systems,40,37,92.5,3,5,0
+24BCS10185,Student_185,IT,CS303,Operating Systems,39,37,94.87,5,0,0
+24BCS10185,Student_185,IT,CS304,Computer Networks,40,36,90.0,5,0,0
+24BCS10185,Student_185,IT,CS305,Cloud Computing,37,32,86.49,5,0,0
+24BCS10186,Student_186,CSE,CS301,Data Structures,40,33,82.5,4,0,0
+24BCS10186,Student_186,CSE,CS302,Database Management Systems,43,40,93.02,5,0,0
+24BCS10186,Student_186,CSE,CS303,Operating Systems,43,40,93.02,5,0,0
+24BCS10186,Student_186,CSE,CS304,Computer Networks,42,37,88.1,5,0,0
+24BCS10186,Student_186,CSE,CS305,Cloud Computing,39,34,87.18,5,0,0
+24BCS10187,Student_187,IT,CS301,Data Structures,43,31,72.09,5,0,1
+24BCS10187,Student_187,IT,CS302,Database Management Systems,42,34,80.95,5,0,0
+24BCS10187,Student_187,IT,CS303,Operating Systems,41,34,82.93,4,0,0
+24BCS10187,Student_187,IT,CS304,Computer Networks,43,30,69.77,4,0,1
+24BCS10187,Student_187,IT,CS305,Cloud Computing,36,29,80.56,4,0,0
+24BCS10188,Student_188,ECE,CS301,Data Structures,40,38,95.0,5,0,0
+24BCS10188,Student_188,ECE,CS302,Database Management Systems,44,42,95.45,5,0,0
+24BCS10188,Student_188,ECE,CS303,Operating Systems,43,40,93.02,5,0,0
+24BCS10188,Student_188,ECE,CS304,Computer Networks,42,41,97.62,5,0,0
+24BCS10188,Student_188,ECE,CS305,Cloud Computing,37,37,100.0,5,0,0
+24BCS10189,Student_189,CSE-AI,CS301,Data Structures,42,42,100.0,5,0,0
+24BCS10189,Student_189,CSE-AI,CS302,Database Management Systems,37,37,100.0,5,0,0
+24BCS10189,Student_189,CSE-AI,CS303,Operating Systems,43,41,95.35,5,0,0
+24BCS10189,Student_189,CSE-AI,CS304,Computer Networks,36,36,100.0,5,0,0
+24BCS10189,Student_189,CSE-AI,CS305,Cloud Computing,41,41,100.0,5,0,0
+24BCS10190,Student_190,CSE-AI,CS301,Data Structures,41,37,90.24,5,0,0
+24BCS10190,Student_190,CSE-AI,CS302,Database Management Systems,43,41,95.35,5,0,0
+24BCS10190,Student_190,CSE-AI,CS303,Operating Systems,41,38,92.68,4,0,0
+24BCS10190,Student_190,CSE-AI,CS304,Computer Networks,41,41,100.0,5,0,0
+24BCS10190,Student_190,CSE-AI,CS305,Cloud Computing,44,44,100.0,5,0,0
+24BCS10191,Student_191,CSE,CS301,Data Structures,40,36,90.0,5,0,0
+24BCS10191,Student_191,CSE,CS302,Database Management Systems,44,44,100.0,5,0,0
+24BCS10191,Student_191,CSE,CS303,Operating Systems,39,39,100.0,5,0,0
+24BCS10191,Student_191,CSE,CS304,Computer Networks,37,35,94.59,5,0,0
+24BCS10191,Student_191,CSE,CS305,Cloud Computing,39,36,92.31,5,0,0
+24BCS10192,Student_192,CSE,CS301,Data Structures,37,28,75.68,2,3,1
+24BCS10192,Student_192,CSE,CS302,Database Management Systems,42,36,85.71,4,0,0
+24BCS10192,Student_192,CSE,CS303,Operating Systems,36,32,88.89,4,0,0
+24BCS10192,Student_192,CSE,CS304,Computer Networks,37,32,86.49,5,0,0
+24BCS10192,Student_192,CSE,CS305,Cloud Computing,40,32,80.0,3,1,0
+24BCS10193,Student_193,CSE-AI,CS301,Data Structures,40,36,90.0,5,0,0
+24BCS10193,Student_193,CSE-AI,CS302,Database Management Systems,39,36,92.31,4,0,0
+24BCS10193,Student_193,CSE-AI,CS303,Operating Systems,36,31,86.11,4,0,0
+24BCS10193,Student_193,CSE-AI,CS304,Computer Networks,37,32,86.49,5,0,0
+24BCS10193,Student_193,CSE-AI,CS305,Cloud Computing,44,37,84.09,4,0,0
+24BCS10194,Student_194,CSE,CS301,Data Structures,43,30,69.77,4,0,1
+24BCS10194,Student_194,CSE,CS302,Database Management Systems,38,28,73.68,3,2,1
+24BCS10194,Student_194,CSE,CS303,Operating Systems,40,31,77.5,4,0,0
+24BCS10194,Student_194,CSE,CS304,Computer Networks,42,32,76.19,4,0,0
+24BCS10194,Student_194,CSE,CS305,Cloud Computing,38,30,78.95,4,0,0
+24BCS10195,Student_195,IT,CS301,Data Structures,36,24,66.67,4,0,1
+24BCS10195,Student_195,IT,CS302,Database Management Systems,37,28,75.68,4,0,0
+24BCS10195,Student_195,IT,CS303,Operating Systems,36,27,75.0,3,4,1
+24BCS10195,Student_195,IT,CS304,Computer Networks,37,30,81.08,4,0,0
+24BCS10195,Student_195,IT,CS305,Cloud Computing,41,33,80.49,5,0,0
+24BCS10196,Student_196,CSE,CS301,Data Structures,42,41,97.62,5,0,0
+24BCS10196,Student_196,CSE,CS302,Database Management Systems,38,33,86.84,5,0,0
+24BCS10196,Student_196,CSE,CS303,Operating Systems,36,31,86.11,5,0,0
+24BCS10196,Student_196,CSE,CS304,Computer Networks,43,40,93.02,4,0,0
+24BCS10196,Student_196,CSE,CS305,Cloud Computing,37,34,91.89,4,0,0
+24BCS10197,Student_197,CSE,CS301,Data Structures,44,31,70.45,2,3,1
+24BCS10197,Student_197,CSE,CS302,Database Management Systems,43,34,79.07,3,2,0
+24BCS10197,Student_197,CSE,CS303,Operating Systems,38,25,65.79,2,5,1
+24BCS10197,Student_197,CSE,CS304,Computer Networks,38,24,63.16,4,0,1
+24BCS10197,Student_197,CSE,CS305,Cloud Computing,37,29,78.38,3,4,0
+24BCS10198,Student_198,CSE,CS301,Data Structures,44,32,72.73,3,3,1
+24BCS10198,Student_198,CSE,CS302,Database Management Systems,40,30,75.0,5,0,0
+24BCS10198,Student_198,CSE,CS303,Operating Systems,36,24,66.67,5,0,1
+24BCS10198,Student_198,CSE,CS304,Computer Networks,39,28,71.79,4,0,1
+24BCS10198,Student_198,CSE,CS305,Cloud Computing,40,30,75.0,4,0,0
+24BCS10199,Student_199,CSE,CS301,Data Structures,38,27,71.05,4,0,1
+24BCS10199,Student_199,CSE,CS302,Database Management Systems,42,28,66.67,3,4,1
+24BCS10199,Student_199,CSE,CS303,Operating Systems,36,29,80.56,5,0,0
+24BCS10199,Student_199,CSE,CS304,Computer Networks,40,27,67.5,3,5,1
+24BCS10199,Student_199,CSE,CS305,Cloud Computing,44,31,70.45,2,2,1
+24BCS10200,Student_200,IT,CS301,Data Structures,42,34,80.95,5,0,0
+24BCS10200,Student_200,IT,CS302,Database Management Systems,43,36,83.72,3,2,0
+24BCS10200,Student_200,IT,CS303,Operating Systems,44,36,81.82,5,0,0
+24BCS10200,Student_200,IT,CS304,Computer Networks,40,32,80.0,5,0,0
+24BCS10200,Student_200,IT,CS305,Cloud Computing,44,35,79.55,4,0,0
+24BCS10201,Student_201,CSE-AI,CS301,Data Structures,36,29,80.56,5,0,0
+24BCS10201,Student_201,CSE-AI,CS302,Database Management Systems,41,36,87.8,5,0,0
+24BCS10201,Student_201,CSE-AI,CS303,Operating Systems,38,34,89.47,5,0,0
+24BCS10201,Student_201,CSE-AI,CS304,Computer Networks,43,35,81.4,3,5,0
+24BCS10201,Student_201,CSE-AI,CS305,Cloud Computing,41,36,87.8,4,0,0
+24BCS10202,Student_202,CSE,CS301,Data Structures,36,28,77.78,5,0,0
+24BCS10202,Student_202,CSE,CS302,Database Management Systems,43,36,83.72,4,0,0
+24BCS10202,Student_202,CSE,CS303,Operating Systems,40,34,85.0,5,0,0
+24BCS10202,Student_202,CSE,CS304,Computer Networks,41,35,85.37,3,1,0
+24BCS10202,Student_202,CSE,CS305,Cloud Computing,44,35,79.55,3,5,0
+24BCS10203,Student_203,CSE,CS301,Data Structures,38,28,73.68,5,0,1
+24BCS10203,Student_203,CSE,CS302,Database Management Systems,38,32,84.21,3,4,0
+24BCS10203,Student_203,CSE,CS303,Operating Systems,43,33,76.74,4,0,0
+24BCS10203,Student_203,CSE,CS304,Computer Networks,36,32,88.89,5,0,0
+24BCS10203,Student_203,CSE,CS305,Cloud Computing,40,32,80.0,5,0,0
+24BCS10204,Student_204,CSE,CS301,Data Structures,39,29,74.36,4,0,1
+24BCS10204,Student_204,CSE,CS302,Database Management Systems,37,26,70.27,4,0,1
+24BCS10204,Student_204,CSE,CS303,Operating Systems,44,35,79.55,4,0,0
+24BCS10204,Student_204,CSE,CS304,Computer Networks,37,29,78.38,4,0,0
+24BCS10204,Student_204,CSE,CS305,Cloud Computing,38,31,81.58,5,0,0
+24BCS10205,Student_205,CSE,CS301,Data Structures,42,24,57.14,2,2,1
+24BCS10205,Student_205,CSE,CS302,Database Management Systems,39,27,69.23,4,0,1
+24BCS10205,Student_205,CSE,CS303,Operating Systems,43,33,76.74,4,0,0
+24BCS10205,Student_205,CSE,CS304,Computer Networks,44,31,70.45,4,0,1
+24BCS10205,Student_205,CSE,CS305,Cloud Computing,38,23,60.53,2,3,1
+24BCS10206,Student_206,ECE,CS301,Data Structures,44,36,81.82,5,0,0
+24BCS10206,Student_206,ECE,CS302,Database Management Systems,41,32,78.05,5,0,0
+24BCS10206,Student_206,ECE,CS303,Operating Systems,41,35,85.37,4,0,0
+24BCS10206,Student_206,ECE,CS304,Computer Networks,38,26,68.42,4,0,1
+24BCS10206,Student_206,ECE,CS305,Cloud Computing,44,32,72.73,5,0,1
+24BCS10207,Student_207,CSE-AI,CS301,Data Structures,42,29,69.05,4,0,1
+24BCS10207,Student_207,CSE-AI,CS302,Database Management Systems,37,27,72.97,3,2,1
+24BCS10207,Student_207,CSE-AI,CS303,Operating Systems,44,30,68.18,3,1,1
+24BCS10207,Student_207,CSE-AI,CS304,Computer Networks,44,34,77.27,5,0,0
+24BCS10207,Student_207,CSE-AI,CS305,Cloud Computing,38,31,81.58,5,0,0
+24BCS10208,Student_208,IT,CS301,Data Structures,36,29,80.56,5,0,0
+24BCS10208,Student_208,IT,CS302,Database Management Systems,37,29,78.38,5,0,0
+24BCS10208,Student_208,IT,CS303,Operating Systems,36,30,83.33,5,0,0
+24BCS10208,Student_208,IT,CS304,Computer Networks,38,30,78.95,5,0,0
+24BCS10208,Student_208,IT,CS305,Cloud Computing,39,30,76.92,2,2,0
+24BCS10209,Student_209,CSE,CS301,Data Structures,43,43,100.0,5,0,0
+24BCS10209,Student_209,CSE,CS302,Database Management Systems,42,40,95.24,5,0,0
+24BCS10209,Student_209,CSE,CS303,Operating Systems,36,36,100.0,5,0,0
+24BCS10209,Student_209,CSE,CS304,Computer Networks,36,36,100.0,5,0,0
+24BCS10209,Student_209,CSE,CS305,Cloud Computing,39,38,97.44,5,0,0
+24BCS10210,Student_210,CSE,CS301,Data Structures,39,33,84.62,4,0,0
+24BCS10210,Student_210,CSE,CS302,Database Management Systems,40,35,87.5,4,0,0
+24BCS10210,Student_210,CSE,CS303,Operating Systems,39,38,97.44,5,0,0
+24BCS10210,Student_210,CSE,CS304,Computer Networks,40,37,92.5,5,0,0
+24BCS10210,Student_210,CSE,CS305,Cloud Computing,39,36,92.31,4,0,0
+24BCS10211,Student_211,CSE,CS301,Data Structures,37,25,67.57,5,0,1
+24BCS10211,Student_211,CSE,CS302,Database Management Systems,39,24,61.54,2,3,1
+24BCS10211,Student_211,CSE,CS303,Operating Systems,41,31,75.61,4,0,0
+24BCS10211,Student_211,CSE,CS304,Computer Networks,41,26,63.41,4,0,1
+24BCS10211,Student_211,CSE,CS305,Cloud Computing,38,25,65.79,4,0,1
+24BCS10212,Student_212,CSE,CS301,Data Structures,44,41,93.18,5,0,0
+24BCS10212,Student_212,CSE,CS302,Database Management Systems,37,32,86.49,4,0,0
+24BCS10212,Student_212,CSE,CS303,Operating Systems,40,36,90.0,5,0,0
+24BCS10212,Student_212,CSE,CS304,Computer Networks,39,35,89.74,2,2,0
+24BCS10212,Student_212,CSE,CS305,Cloud Computing,42,38,90.48,5,0,0
+24BCS10213,Student_213,CSE,CS301,Data Structures,40,36,90.0,4,0,0
+24BCS10213,Student_213,CSE,CS302,Database Management Systems,38,33,86.84,4,0,0
+24BCS10213,Student_213,CSE,CS303,Operating Systems,43,36,83.72,4,0,0
+24BCS10213,Student_213,CSE,CS304,Computer Networks,42,40,95.24,4,0,0
+24BCS10213,Student_213,CSE,CS305,Cloud Computing,42,41,97.62,5,0,0
+24BCS10214,Student_214,CSE-AI,CS301,Data Structures,36,23,63.89,2,4,1
+24BCS10214,Student_214,CSE-AI,CS302,Database Management Systems,36,25,69.44,3,2,1
+24BCS10214,Student_214,CSE-AI,CS303,Operating Systems,43,28,65.12,3,3,1
+24BCS10214,Student_214,CSE-AI,CS304,Computer Networks,43,28,65.12,4,0,1
+24BCS10214,Student_214,CSE-AI,CS305,Cloud Computing,43,27,62.79,2,2,1
+24BCS10215,Student_215,CSE,CS301,Data Structures,44,31,70.45,3,3,1
+24BCS10215,Student_215,CSE,CS302,Database Management Systems,44,26,59.09,4,0,1
+24BCS10215,Student_215,CSE,CS303,Operating Systems,44,34,77.27,4,0,0
+24BCS10215,Student_215,CSE,CS304,Computer Networks,44,28,63.64,3,3,1
+24BCS10215,Student_215,CSE,CS305,Cloud Computing,37,29,78.38,4,0,0
+24BCS10216,Student_216,ECE,CS301,Data Structures,43,43,100.0,5,0,0
+24BCS10216,Student_216,ECE,CS302,Database Management Systems,40,36,90.0,4,0,0
+24BCS10216,Student_216,ECE,CS303,Operating Systems,41,41,100.0,5,0,0
+24BCS10216,Student_216,ECE,CS304,Computer Networks,39,35,89.74,4,0,0
+24BCS10216,Student_216,ECE,CS305,Cloud Computing,39,39,100.0,5,0,0
+24BCS10217,Student_217,CSE,CS301,Data Structures,43,35,81.4,5,0,0
+24BCS10217,Student_217,CSE,CS302,Database Management Systems,42,39,92.86,5,0,0
+24BCS10217,Student_217,CSE,CS303,Operating Systems,42,34,80.95,5,0,0
+24BCS10217,Student_217,CSE,CS304,Computer Networks,36,30,83.33,5,0,0
+24BCS10217,Student_217,CSE,CS305,Cloud Computing,43,39,90.7,5,0,0
+24BCS10218,Student_218,CSE,CS301,Data Structures,41,32,78.05,5,0,0
+24BCS10218,Student_218,CSE,CS302,Database Management Systems,43,38,88.37,4,0,0
+24BCS10218,Student_218,CSE,CS303,Operating Systems,41,38,92.68,4,0,0
+24BCS10218,Student_218,CSE,CS304,Computer Networks,40,32,80.0,5,0,0
+24BCS10218,Student_218,CSE,CS305,Cloud Computing,39,33,84.62,5,0,0
+24BCS10219,Student_219,CSE,CS301,Data Structures,38,27,71.05,2,3,1
+24BCS10219,Student_219,CSE,CS302,Database Management Systems,36,26,72.22,4,0,1
+24BCS10219,Student_219,CSE,CS303,Operating Systems,37,23,62.16,3,5,1
+24BCS10219,Student_219,CSE,CS304,Computer Networks,38,30,78.95,4,0,0
+24BCS10219,Student_219,CSE,CS305,Cloud Computing,39,27,69.23,3,1,1
+24BCS10220,Student_220,IT,CS301,Data Structures,44,36,81.82,5,0,0
+24BCS10220,Student_220,IT,CS302,Database Management Systems,39,35,89.74,5,0,0
+24BCS10220,Student_220,IT,CS303,Operating Systems,43,35,81.4,5,0,0
+24BCS10220,Student_220,IT,CS304,Computer Networks,38,36,94.74,5,0,0
+24BCS10220,Student_220,IT,CS305,Cloud Computing,39,31,79.49,4,0,0
+24BCS10221,Student_221,IT,CS301,Data Structures,42,35,83.33,5,0,0
+24BCS10221,Student_221,IT,CS302,Database Management Systems,41,30,73.17,4,0,1
+24BCS10221,Student_221,IT,CS303,Operating Systems,39,32,82.05,5,0,0
+24BCS10221,Student_221,IT,CS304,Computer Networks,36,29,80.56,5,0,0
+24BCS10221,Student_221,IT,CS305,Cloud Computing,43,36,83.72,5,0,0
+24BCS10222,Student_222,ECE,CS301,Data Structures,38,30,78.95,3,5,0
+24BCS10222,Student_222,ECE,CS302,Database Management Systems,43,30,69.77,2,4,1
+24BCS10222,Student_222,ECE,CS303,Operating Systems,36,28,77.78,4,0,0
+24BCS10222,Student_222,ECE,CS304,Computer Networks,41,33,80.49,5,0,0
+24BCS10222,Student_222,ECE,CS305,Cloud Computing,44,33,75.0,4,0,0
+24BCS10223,Student_223,CSE,CS301,Data Structures,38,27,71.05,3,1,1
+24BCS10223,Student_223,CSE,CS302,Database Management Systems,38,27,71.05,4,0,1
+24BCS10223,Student_223,CSE,CS303,Operating Systems,43,34,79.07,2,2,0
+24BCS10223,Student_223,CSE,CS304,Computer Networks,40,37,92.5,5,0,0
+24BCS10223,Student_223,CSE,CS305,Cloud Computing,42,33,78.57,4,0,0
+24BCS10224,Student_224,IT,CS301,Data Structures,44,33,75.0,4,0,0
+24BCS10224,Student_224,IT,CS302,Database Management Systems,37,26,70.27,5,0,1
+24BCS10224,Student_224,IT,CS303,Operating Systems,40,29,72.5,3,4,1
+24BCS10224,Student_224,IT,CS304,Computer Networks,36,31,86.11,5,0,0
+24BCS10224,Student_224,IT,CS305,Cloud Computing,42,35,83.33,4,0,0
+24BCS10225,Student_225,ECE,CS301,Data Structures,38,25,65.79,4,0,1
+24BCS10225,Student_225,ECE,CS302,Database Management Systems,39,24,61.54,2,2,1
+24BCS10225,Student_225,ECE,CS303,Operating Systems,38,22,57.89,4,0,1
+24BCS10225,Student_225,ECE,CS304,Computer Networks,39,25,64.1,4,0,1
+24BCS10225,Student_225,ECE,CS305,Cloud Computing,42,30,71.43,4,0,1
+24BCS10226,Student_226,CSE,CS301,Data Structures,39,35,89.74,4,0,0
+24BCS10226,Student_226,CSE,CS302,Database Management Systems,40,38,95.0,5,0,0
+24BCS10226,Student_226,CSE,CS303,Operating Systems,42,37,88.1,5,0,0
+24BCS10226,Student_226,CSE,CS304,Computer Networks,41,39,95.12,5,0,0
+24BCS10226,Student_226,CSE,CS305,Cloud Computing,40,32,80.0,5,0,0
+24BCS10227,Student_227,ECE,CS301,Data Structures,42,35,83.33,2,5,0
+24BCS10227,Student_227,ECE,CS302,Database Management Systems,42,37,88.1,5,0,0
+24BCS10227,Student_227,ECE,CS303,Operating Systems,37,29,78.38,4,0,0
+24BCS10227,Student_227,ECE,CS304,Computer Networks,40,34,85.0,4,0,0
+24BCS10227,Student_227,ECE,CS305,Cloud Computing,36,28,77.78,3,2,0
+24BCS10228,Student_228,CSE,CS301,Data Structures,37,26,70.27,3,2,1
+24BCS10228,Student_228,CSE,CS302,Database Management Systems,41,25,60.98,5,0,1
+24BCS10228,Student_228,CSE,CS303,Operating Systems,42,28,66.67,3,4,1
+24BCS10228,Student_228,CSE,CS304,Computer Networks,38,30,78.95,5,0,0
+24BCS10228,Student_228,CSE,CS305,Cloud Computing,40,33,82.5,4,0,0
+24BCS10229,Student_229,IT,CS301,Data Structures,42,27,64.29,4,0,1
+24BCS10229,Student_229,IT,CS302,Database Management Systems,42,24,57.14,4,0,1
+24BCS10229,Student_229,IT,CS303,Operating Systems,38,24,63.16,5,0,1
+24BCS10229,Student_229,IT,CS304,Computer Networks,41,20,48.78,2,2,1
+24BCS10229,Student_229,IT,CS305,Cloud Computing,39,29,74.36,4,0,1
+24BCS10230,Student_230,CSE,CS301,Data Structures,38,30,78.95,3,4,0
+24BCS10230,Student_230,CSE,CS302,Database Management Systems,40,37,92.5,5,0,0
+24BCS10230,Student_230,CSE,CS303,Operating Systems,43,36,83.72,5,0,0
+24BCS10230,Student_230,CSE,CS304,Computer Networks,44,37,84.09,4,0,0
+24BCS10230,Student_230,CSE,CS305,Cloud Computing,39,33,84.62,5,0,0
+24BCS10231,Student_231,ECE,CS301,Data Structures,37,32,86.49,3,3,0
+24BCS10231,Student_231,ECE,CS302,Database Management Systems,37,29,78.38,5,0,0
+24BCS10231,Student_231,ECE,CS303,Operating Systems,43,37,86.05,5,0,0
+24BCS10231,Student_231,ECE,CS304,Computer Networks,44,36,81.82,5,0,0
+24BCS10231,Student_231,ECE,CS305,Cloud Computing,44,37,84.09,5,0,0
+24BCS10232,Student_232,ECE,CS301,Data Structures,42,42,100.0,5,0,0
+24BCS10232,Student_232,ECE,CS302,Database Management Systems,40,40,100.0,5,0,0
+24BCS10232,Student_232,ECE,CS303,Operating Systems,37,37,100.0,5,0,0
+24BCS10232,Student_232,ECE,CS304,Computer Networks,37,37,100.0,5,0,0
+24BCS10232,Student_232,ECE,CS305,Cloud Computing,42,42,100.0,5,0,0
+24BCS10233,Student_233,ECE,CS301,Data Structures,44,35,79.55,4,0,0
+24BCS10233,Student_233,ECE,CS302,Database Management Systems,42,31,73.81,5,0,1
+24BCS10233,Student_233,ECE,CS303,Operating Systems,42,32,76.19,4,0,0
+24BCS10233,Student_233,ECE,CS304,Computer Networks,36,28,77.78,3,1,0
+24BCS10233,Student_233,ECE,CS305,Cloud Computing,40,31,77.5,4,0,0
+24BCS10234,Student_234,CSE,CS301,Data Structures,42,35,83.33,4,0,0
+24BCS10234,Student_234,CSE,CS302,Database Management Systems,41,40,97.56,5,0,0
+24BCS10234,Student_234,CSE,CS303,Operating Systems,43,39,90.7,5,0,0
+24BCS10234,Student_234,CSE,CS304,Computer Networks,42,36,85.71,5,0,0
+24BCS10234,Student_234,CSE,CS305,Cloud Computing,44,44,100.0,5,0,0
+24BCS10235,Student_235,CSE,CS301,Data Structures,42,37,88.1,4,0,0
+24BCS10235,Student_235,CSE,CS302,Database Management Systems,37,27,72.97,4,0,1
+24BCS10235,Student_235,CSE,CS303,Operating Systems,42,34,80.95,5,0,0
+24BCS10235,Student_235,CSE,CS304,Computer Networks,37,29,78.38,5,0,0
+24BCS10235,Student_235,CSE,CS305,Cloud Computing,41,29,70.73,4,0,1
+24BCS10236,Student_236,IT,CS301,Data Structures,43,28,65.12,3,5,1
+24BCS10236,Student_236,IT,CS302,Database Management Systems,36,23,63.89,4,0,1
+24BCS10236,Student_236,IT,CS303,Operating Systems,36,23,63.89,3,2,1
+24BCS10236,Student_236,IT,CS304,Computer Networks,44,28,63.64,2,5,1
+24BCS10236,Student_236,IT,CS305,Cloud Computing,41,24,58.54,4,0,1
+24BCS10237,Student_237,CSE,CS301,Data Structures,38,28,73.68,3,1,1
+24BCS10237,Student_237,CSE,CS302,Database Management Systems,39,30,76.92,3,4,1
+24BCS10237,Student_237,CSE,CS303,Operating Systems,44,27,61.36,5,0,1
+24BCS10237,Student_237,CSE,CS304,Computer Networks,37,28,75.68,3,3,1
+24BCS10237,Student_237,CSE,CS305,Cloud Computing,44,34,77.27,3,3,1
+24BCS10238,Student_238,CSE,CS301,Data Structures,43,29,67.44,4,0,1
+24BCS10238,Student_238,CSE,CS302,Database Management Systems,37,30,81.08,4,0,0
+24BCS10238,Student_238,CSE,CS303,Operating Systems,41,26,63.41,3,3,1
+24BCS10238,Student_238,CSE,CS304,Computer Networks,42,32,76.19,3,2,0
+24BCS10238,Student_238,CSE,CS305,Cloud Computing,43,32,74.42,4,0,1
+24BCS10239,Student_239,IT,CS301,Data Structures,39,37,94.87,5,0,0
+24BCS10239,Student_239,IT,CS302,Database Management Systems,38,38,100.0,5,0,0
+24BCS10239,Student_239,IT,CS303,Operating Systems,37,35,94.59,4,0,0
+24BCS10239,Student_239,IT,CS304,Computer Networks,39,37,94.87,5,0,0
+24BCS10239,Student_239,IT,CS305,Cloud Computing,44,40,90.91,5,0,0
+24BCS10240,Student_240,CSE,CS301,Data Structures,40,28,70.0,4,0,1
+24BCS10240,Student_240,CSE,CS302,Database Management Systems,43,33,76.74,3,4,1
+24BCS10240,Student_240,CSE,CS303,Operating Systems,42,31,73.81,3,5,1
+24BCS10240,Student_240,CSE,CS304,Computer Networks,42,29,69.05,2,1,1
+24BCS10240,Student_240,CSE,CS305,Cloud Computing,37,26,70.27,4,0,1
+24BCS10241,Student_241,CSE,CS301,Data Structures,42,39,92.86,5,0,0
+24BCS10241,Student_241,CSE,CS302,Database Management Systems,38,38,100.0,5,0,0
+24BCS10241,Student_241,CSE,CS303,Operating Systems,38,36,94.74,5,0,0
+24BCS10241,Student_241,CSE,CS304,Computer Networks,38,38,100.0,5,0,0
+24BCS10241,Student_241,CSE,CS305,Cloud Computing,44,44,100.0,5,0,0
+24BCS10242,Student_242,IT,CS301,Data Structures,44,26,59.09,1,3,1
+24BCS10242,Student_242,IT,CS302,Database Management Systems,43,28,65.12,3,1,1
+24BCS10242,Student_242,IT,CS303,Operating Systems,42,25,59.52,2,2,1
+24BCS10242,Student_242,IT,CS304,Computer Networks,39,26,66.67,2,5,1
+24BCS10242,Student_242,IT,CS305,Cloud Computing,44,27,61.36,5,0,1
+24BCS10243,Student_243,CSE-AI,CS301,Data Structures,37,25,67.57,5,0,1
+24BCS10243,Student_243,CSE-AI,CS302,Database Management Systems,41,30,73.17,5,0,1
+24BCS10243,Student_243,CSE-AI,CS303,Operating Systems,41,30,73.17,3,3,1
+24BCS10243,Student_243,CSE-AI,CS304,Computer Networks,43,30,69.77,3,1,1
+24BCS10243,Student_243,CSE-AI,CS305,Cloud Computing,36,27,75.0,4,0,0
+24BCS10244,Student_244,CSE,CS301,Data Structures,38,38,100.0,5,0,0
+24BCS10244,Student_244,CSE,CS302,Database Management Systems,43,41,95.35,5,0,0
+24BCS10244,Student_244,CSE,CS303,Operating Systems,40,38,95.0,5,0,0
+24BCS10244,Student_244,CSE,CS304,Computer Networks,39,34,87.18,4,0,0
+24BCS10244,Student_244,CSE,CS305,Cloud Computing,40,39,97.5,4,0,0
+24BCS10245,Student_245,ECE,CS301,Data Structures,36,30,83.33,5,0,0
+24BCS10245,Student_245,ECE,CS302,Database Management Systems,39,31,79.49,3,3,0
+24BCS10245,Student_245,ECE,CS303,Operating Systems,37,28,75.68,3,3,1
+24BCS10245,Student_245,ECE,CS304,Computer Networks,44,35,79.55,5,0,0
+24BCS10245,Student_245,ECE,CS305,Cloud Computing,44,35,79.55,5,0,0
+24BCS10246,Student_246,CSE,CS301,Data Structures,44,33,75.0,5,0,0
+24BCS10246,Student_246,CSE,CS302,Database Management Systems,43,31,72.09,4,0,1
+24BCS10246,Student_246,CSE,CS303,Operating Systems,44,28,63.64,3,5,1
+24BCS10246,Student_246,CSE,CS304,Computer Networks,39,32,82.05,5,0,0
+24BCS10246,Student_246,CSE,CS305,Cloud Computing,37,27,72.97,3,1,1
+24BCS10247,Student_247,CSE,CS301,Data Structures,41,35,85.37,5,0,0
+24BCS10247,Student_247,CSE,CS302,Database Management Systems,44,38,86.36,5,0,0
+24BCS10247,Student_247,CSE,CS303,Operating Systems,44,36,81.82,4,0,0
+24BCS10247,Student_247,CSE,CS304,Computer Networks,44,34,77.27,5,0,0
+24BCS10247,Student_247,CSE,CS305,Cloud Computing,39,32,82.05,4,0,0
+24BCS10248,Student_248,CSE,CS301,Data Structures,36,33,91.67,4,0,0
+24BCS10248,Student_248,CSE,CS302,Database Management Systems,36,33,91.67,5,0,0
+24BCS10248,Student_248,CSE,CS303,Operating Systems,37,30,81.08,5,0,0
+24BCS10248,Student_248,CSE,CS304,Computer Networks,36,30,83.33,5,0,0
+24BCS10248,Student_248,CSE,CS305,Cloud Computing,41,36,87.8,5,0,0
+24BCS10249,Student_249,CSE,CS301,Data Structures,36,28,77.78,4,0,0
+24BCS10249,Student_249,CSE,CS302,Database Management Systems,37,30,81.08,4,0,0
+24BCS10249,Student_249,CSE,CS303,Operating Systems,36,25,69.44,2,3,1
+24BCS10249,Student_249,CSE,CS304,Computer Networks,37,27,72.97,4,0,1
+24BCS10249,Student_249,CSE,CS305,Cloud Computing,42,30,71.43,3,2,1
+24BCS10250,Student_250,CSE-AI,CS301,Data Structures,44,36,81.82,5,0,0
+24BCS10250,Student_250,CSE-AI,CS302,Database Management Systems,38,32,84.21,5,0,0
+24BCS10250,Student_250,CSE-AI,CS303,Operating Systems,41,32,78.05,4,0,0
+24BCS10250,Student_250,CSE-AI,CS304,Computer Networks,42,34,80.95,4,0,0
+24BCS10250,Student_250,CSE-AI,CS305,Cloud Computing,39,30,76.92,3,3,1
+24BCS10251,Student_251,CSE,CS301,Data Structures,36,28,77.78,4,0,0
+24BCS10251,Student_251,CSE,CS302,Database Management Systems,42,34,80.95,5,0,0
+24BCS10251,Student_251,CSE,CS303,Operating Systems,43,33,76.74,4,0,0
+24BCS10251,Student_251,CSE,CS304,Computer Networks,44,36,81.82,4,0,0
+24BCS10251,Student_251,CSE,CS305,Cloud Computing,40,31,77.5,5,0,0
+24BCS10252,Student_252,CSE-AI,CS301,Data Structures,41,31,75.61,5,0,0
+24BCS10252,Student_252,CSE-AI,CS302,Database Management Systems,36,27,75.0,5,0,0
+24BCS10252,Student_252,CSE-AI,CS303,Operating Systems,42,34,80.95,2,5,0
+24BCS10252,Student_252,CSE-AI,CS304,Computer Networks,42,33,78.57,2,3,0
+24BCS10252,Student_252,CSE-AI,CS305,Cloud Computing,37,27,72.97,5,0,1
+24BCS10253,Student_253,CSE,CS301,Data Structures,44,43,97.73,5,0,0
+24BCS10253,Student_253,CSE,CS302,Database Management Systems,41,39,95.12,5,0,0
+24BCS10253,Student_253,CSE,CS303,Operating Systems,41,38,92.68,5,0,0
+24BCS10253,Student_253,CSE,CS304,Computer Networks,42,42,100.0,5,0,0
+24BCS10253,Student_253,CSE,CS305,Cloud Computing,44,44,100.0,5,0,0
+24BCS10254,Student_254,CSE-AI,CS301,Data Structures,41,36,87.8,5,0,0
+24BCS10254,Student_254,CSE-AI,CS302,Database Management Systems,38,29,76.32,5,0,0
+24BCS10254,Student_254,CSE-AI,CS303,Operating Systems,44,37,84.09,4,0,0
+24BCS10254,Student_254,CSE-AI,CS304,Computer Networks,42,35,83.33,3,1,0
+24BCS10254,Student_254,CSE-AI,CS305,Cloud Computing,36,31,86.11,4,0,0
+24BCS10255,Student_255,CSE-AI,CS301,Data Structures,37,32,86.49,4,0,0
+24BCS10255,Student_255,CSE-AI,CS302,Database Management Systems,40,31,77.5,5,0,0
+24BCS10255,Student_255,CSE-AI,CS303,Operating Systems,38,31,81.58,4,0,0
+24BCS10255,Student_255,CSE-AI,CS304,Computer Networks,43,37,86.05,4,0,0
+24BCS10255,Student_255,CSE-AI,CS305,Cloud Computing,36,34,94.44,5,0,0
+24BCS10256,Student_256,CSE-AI,CS301,Data Structures,37,20,54.05,1,1,1
+24BCS10256,Student_256,CSE-AI,CS302,Database Management Systems,42,22,52.38,2,3,1
+24BCS10256,Student_256,CSE-AI,CS303,Operating Systems,44,24,54.55,2,3,1
+24BCS10256,Student_256,CSE-AI,CS304,Computer Networks,40,21,52.5,4,0,1
+24BCS10256,Student_256,CSE-AI,CS305,Cloud Computing,43,24,55.81,3,5,1
+24BCS10257,Student_257,IT,CS301,Data Structures,43,27,62.79,4,0,1
+24BCS10257,Student_257,IT,CS302,Database Management Systems,36,24,66.67,3,2,1
+24BCS10257,Student_257,IT,CS303,Operating Systems,40,24,60.0,3,5,1
+24BCS10257,Student_257,IT,CS304,Computer Networks,43,26,60.47,3,1,1
+24BCS10257,Student_257,IT,CS305,Cloud Computing,44,31,70.45,2,5,1
+24BCS10258,Student_258,CSE,CS301,Data Structures,44,41,93.18,5,0,0
+24BCS10258,Student_258,CSE,CS302,Database Management Systems,40,40,100.0,5,0,0
+24BCS10258,Student_258,CSE,CS303,Operating Systems,36,33,91.67,5,0,0
+24BCS10258,Student_258,CSE,CS304,Computer Networks,40,33,82.5,4,0,0
+24BCS10258,Student_258,CSE,CS305,Cloud Computing,43,40,93.02,5,0,0
+24BCS10259,Student_259,CSE,CS301,Data Structures,39,32,82.05,3,4,0
+24BCS10259,Student_259,CSE,CS302,Database Management Systems,43,32,74.42,5,0,1
+24BCS10259,Student_259,CSE,CS303,Operating Systems,41,34,82.93,4,0,0
+24BCS10259,Student_259,CSE,CS304,Computer Networks,43,31,72.09,3,1,1
+24BCS10259,Student_259,CSE,CS305,Cloud Computing,42,35,83.33,4,0,0
+24BCS10260,Student_260,CSE,CS301,Data Structures,39,27,69.23,3,3,1
+24BCS10260,Student_260,CSE,CS302,Database Management Systems,37,25,67.57,2,4,1
+24BCS10260,Student_260,CSE,CS303,Operating Systems,36,21,58.33,2,2,1
+24BCS10260,Student_260,CSE,CS304,Computer Networks,40,30,75.0,3,4,1
+24BCS10260,Student_260,CSE,CS305,Cloud Computing,37,24,64.86,4,0,1
+24BCS10261,Student_261,IT,CS301,Data Structures,37,37,100.0,5,0,0
+24BCS10261,Student_261,IT,CS302,Database Management Systems,38,38,100.0,5,0,0
+24BCS10261,Student_261,IT,CS303,Operating Systems,39,36,92.31,5,0,0
+24BCS10261,Student_261,IT,CS304,Computer Networks,39,39,100.0,5,0,0
+24BCS10261,Student_261,IT,CS305,Cloud Computing,42,42,100.0,5,0,0
+24BCS10262,Student_262,CSE-AI,CS301,Data Structures,40,34,85.0,4,0,0
+24BCS10262,Student_262,CSE-AI,CS302,Database Management Systems,40,34,85.0,5,0,0
+24BCS10262,Student_262,CSE-AI,CS303,Operating Systems,42,33,78.57,3,1,0
+24BCS10262,Student_262,CSE-AI,CS304,Computer Networks,38,32,84.21,5,0,0
+24BCS10262,Student_262,CSE-AI,CS305,Cloud Computing,40,33,82.5,3,2,0
+24BCS10263,Student_263,CSE-AI,CS301,Data Structures,41,36,87.8,4,0,0
+24BCS10263,Student_263,CSE-AI,CS302,Database Management Systems,37,32,86.49,4,0,0
+24BCS10263,Student_263,CSE-AI,CS303,Operating Systems,42,35,83.33,4,0,0
+24BCS10263,Student_263,CSE-AI,CS304,Computer Networks,37,35,94.59,4,0,0
+24BCS10263,Student_263,CSE-AI,CS305,Cloud Computing,40,32,80.0,5,0,0
+24BCS10264,Student_264,CSE,CS301,Data Structures,38,28,73.68,4,0,1
+24BCS10264,Student_264,CSE,CS302,Database Management Systems,44,31,70.45,4,0,1
+24BCS10264,Student_264,CSE,CS303,Operating Systems,40,34,85.0,4,0,0
+24BCS10264,Student_264,CSE,CS304,Computer Networks,40,28,70.0,5,0,1
+24BCS10264,Student_264,CSE,CS305,Cloud Computing,41,30,73.17,3,5,1
+24BCS10265,Student_265,CSE,CS301,Data Structures,41,25,60.98,2,5,1
+24BCS10265,Student_265,CSE,CS302,Database Management Systems,41,28,68.29,5,0,1
+24BCS10265,Student_265,CSE,CS303,Operating Systems,36,23,63.89,3,3,1
+24BCS10265,Student_265,CSE,CS304,Computer Networks,43,28,65.12,3,1,1
+24BCS10265,Student_265,CSE,CS305,Cloud Computing,37,25,67.57,5,0,1
+24BCS10266,Student_266,CSE,CS301,Data Structures,44,35,79.55,3,2,0
+24BCS10266,Student_266,CSE,CS302,Database Management Systems,44,36,81.82,5,0,0
+24BCS10266,Student_266,CSE,CS303,Operating Systems,36,27,75.0,4,0,0
+24BCS10266,Student_266,CSE,CS304,Computer Networks,39,34,87.18,4,0,0
+24BCS10266,Student_266,CSE,CS305,Cloud Computing,43,29,67.44,3,4,1
+24BCS10267,Student_267,CSE,CS301,Data Structures,36,32,88.89,4,0,0
+24BCS10267,Student_267,CSE,CS302,Database Management Systems,43,38,88.37,4,0,0
+24BCS10267,Student_267,CSE,CS303,Operating Systems,38,32,84.21,5,0,0
+24BCS10267,Student_267,CSE,CS304,Computer Networks,41,32,78.05,5,0,0
+24BCS10267,Student_267,CSE,CS305,Cloud Computing,40,33,82.5,5,0,0
+24BCS10268,Student_268,CSE,CS301,Data Structures,43,28,65.12,3,2,1
+24BCS10268,Student_268,CSE,CS302,Database Management Systems,37,28,75.68,5,0,0
+24BCS10268,Student_268,CSE,CS303,Operating Systems,40,24,60.0,3,2,1
+24BCS10268,Student_268,CSE,CS304,Computer Networks,43,29,67.44,3,1,1
+24BCS10268,Student_268,CSE,CS305,Cloud Computing,40,28,70.0,3,3,1
+24BCS10269,Student_269,ECE,CS301,Data Structures,37,27,72.97,3,4,1
+24BCS10269,Student_269,ECE,CS302,Database Management Systems,38,25,65.79,3,1,1
+24BCS10269,Student_269,ECE,CS303,Operating Systems,39,26,66.67,4,0,1
+24BCS10269,Student_269,ECE,CS304,Computer Networks,40,28,70.0,4,0,1
+24BCS10269,Student_269,ECE,CS305,Cloud Computing,36,26,72.22,1,5,1
+24BCS10270,Student_270,CSE,CS301,Data Structures,39,33,84.62,3,5,0
+24BCS10270,Student_270,CSE,CS302,Database Management Systems,44,33,75.0,4,0,0
+24BCS10270,Student_270,CSE,CS303,Operating Systems,43,38,88.37,5,0,0
+24BCS10270,Student_270,CSE,CS304,Computer Networks,37,33,89.19,5,0,0
+24BCS10270,Student_270,CSE,CS305,Cloud Computing,41,37,90.24,5,0,0
+24BCS10271,Student_271,CSE,CS301,Data Structures,38,36,94.74,5,0,0
+24BCS10271,Student_271,CSE,CS302,Database Management Systems,44,39,88.64,5,0,0
+24BCS10271,Student_271,CSE,CS303,Operating Systems,41,36,87.8,5,0,0
+24BCS10271,Student_271,CSE,CS304,Computer Networks,41,40,97.56,5,0,0
+24BCS10271,Student_271,CSE,CS305,Cloud Computing,40,36,90.0,5,0,0
+24BCS10272,Student_272,ECE,CS301,Data Structures,44,30,68.18,3,5,1
+24BCS10272,Student_272,ECE,CS302,Database Management Systems,44,32,72.73,4,0,1
+24BCS10272,Student_272,ECE,CS303,Operating Systems,39,28,71.79,4,0,1
+24BCS10272,Student_272,ECE,CS304,Computer Networks,36,26,72.22,4,0,1
+24BCS10272,Student_272,ECE,CS305,Cloud Computing,43,29,67.44,3,2,1
+24BCS10273,Student_273,CSE-AI,CS301,Data Structures,42,34,80.95,5,0,0
+24BCS10273,Student_273,CSE-AI,CS302,Database Management Systems,43,38,88.37,5,0,0
+24BCS10273,Student_273,CSE-AI,CS303,Operating Systems,43,37,86.05,5,0,0
+24BCS10273,Student_273,CSE-AI,CS304,Computer Networks,37,32,86.49,5,0,0
+24BCS10273,Student_273,CSE-AI,CS305,Cloud Computing,44,41,93.18,4,0,0
+24BCS10274,Student_274,ECE,CS301,Data Structures,39,20,51.28,2,1,1
+24BCS10274,Student_274,ECE,CS302,Database Management Systems,41,24,58.54,5,0,1
+24BCS10274,Student_274,ECE,CS303,Operating Systems,39,25,64.1,2,2,1
+24BCS10274,Student_274,ECE,CS304,Computer Networks,42,26,61.9,3,1,1
+24BCS10274,Student_274,ECE,CS305,Cloud Computing,37,26,70.27,2,3,1
+24BCS10275,Student_275,CSE,CS301,Data Structures,39,30,76.92,3,3,1
+24BCS10275,Student_275,CSE,CS302,Database Management Systems,42,35,83.33,5,0,0
+24BCS10275,Student_275,CSE,CS303,Operating Systems,44,33,75.0,5,0,0
+24BCS10275,Student_275,CSE,CS304,Computer Networks,40,28,70.0,4,0,1
+24BCS10275,Student_275,CSE,CS305,Cloud Computing,38,29,76.32,4,0,0
+24BCS10276,Student_276,CSE,CS301,Data Structures,40,34,85.0,5,0,0
+24BCS10276,Student_276,CSE,CS302,Database Management Systems,36,29,80.56,4,0,0
+24BCS10276,Student_276,CSE,CS303,Operating Systems,43,36,83.72,4,0,0
+24BCS10276,Student_276,CSE,CS304,Computer Networks,38,32,84.21,4,0,0
+24BCS10276,Student_276,CSE,CS305,Cloud Computing,36,30,83.33,2,4,0
+24BCS10277,Student_277,CSE,CS301,Data Structures,43,37,86.05,3,4,0
+24BCS10277,Student_277,CSE,CS302,Database Management Systems,39,38,97.44,5,0,0
+24BCS10277,Student_277,CSE,CS303,Operating Systems,40,37,92.5,5,0,0
+24BCS10277,Student_277,CSE,CS304,Computer Networks,41,40,97.56,5,0,0
+24BCS10277,Student_277,CSE,CS305,Cloud Computing,38,38,100.0,5,0,0
+24BCS10278,Student_278,CSE,CS301,Data Structures,42,30,71.43,5,0,1
+24BCS10278,Student_278,CSE,CS302,Database Management Systems,37,32,86.49,4,0,0
+24BCS10278,Student_278,CSE,CS303,Operating Systems,42,37,88.1,4,0,0
+24BCS10278,Student_278,CSE,CS304,Computer Networks,37,32,86.49,4,0,0
+24BCS10278,Student_278,CSE,CS305,Cloud Computing,39,35,89.74,4,0,0
+24BCS10279,Student_279,CSE,CS301,Data Structures,38,38,100.0,5,0,0
+24BCS10279,Student_279,CSE,CS302,Database Management Systems,42,42,100.0,5,0,0
+24BCS10279,Student_279,CSE,CS303,Operating Systems,39,38,97.44,4,0,0
+24BCS10279,Student_279,CSE,CS304,Computer Networks,40,39,97.5,5,0,0
+24BCS10279,Student_279,CSE,CS305,Cloud Computing,40,39,97.5,5,0,0
+24BCS10280,Student_280,ECE,CS301,Data Structures,43,30,69.77,3,1,1
+24BCS10280,Student_280,ECE,CS302,Database Management Systems,36,21,58.33,2,4,1
+24BCS10280,Student_280,ECE,CS303,Operating Systems,38,21,55.26,3,3,1
+24BCS10280,Student_280,ECE,CS304,Computer Networks,39,23,58.97,3,3,1
+24BCS10280,Student_280,ECE,CS305,Cloud Computing,42,25,59.52,3,2,1
+24BCS10281,Student_281,IT,CS301,Data Structures,42,34,80.95,3,2,0
+24BCS10281,Student_281,IT,CS302,Database Management Systems,43,39,90.7,5,0,0
+24BCS10281,Student_281,IT,CS303,Operating Systems,37,32,86.49,5,0,0
+24BCS10281,Student_281,IT,CS304,Computer Networks,44,36,81.82,2,3,0
+24BCS10281,Student_281,IT,CS305,Cloud Computing,37,32,86.49,5,0,0
+24BCS10282,Student_282,CSE,CS301,Data Structures,41,23,56.1,4,0,1
+24BCS10282,Student_282,CSE,CS302,Database Management Systems,39,23,58.97,2,1,1
+24BCS10282,Student_282,CSE,CS303,Operating Systems,36,21,58.33,2,4,1
+24BCS10282,Student_282,CSE,CS304,Computer Networks,40,24,60.0,2,4,1
+24BCS10282,Student_282,CSE,CS305,Cloud Computing,36,25,69.44,4,0,1
+24BCS10283,Student_283,CSE-AI,CS301,Data Structures,42,41,97.62,5,0,0
+24BCS10283,Student_283,CSE-AI,CS302,Database Management Systems,37,33,89.19,4,0,0
+24BCS10283,Student_283,CSE-AI,CS303,Operating Systems,37,32,86.49,4,0,0
+24BCS10283,Student_283,CSE-AI,CS304,Computer Networks,41,36,87.8,5,0,0
+24BCS10283,Student_283,CSE-AI,CS305,Cloud Computing,41,39,95.12,5,0,0
+24BCS10284,Student_284,CSE,CS301,Data Structures,36,28,77.78,4,0,0
+24BCS10284,Student_284,CSE,CS302,Database Management Systems,43,33,76.74,3,2,0
+24BCS10284,Student_284,CSE,CS303,Operating Systems,44,38,86.36,5,0,0
+24BCS10284,Student_284,CSE,CS304,Computer Networks,38,30,78.95,4,0,0
+24BCS10284,Student_284,CSE,CS305,Cloud Computing,40,34,85.0,5,0,0
+24BCS10285,Student_285,CSE,CS301,Data Structures,43,31,72.09,5,0,1
+24BCS10285,Student_285,CSE,CS302,Database Management Systems,41,31,75.61,5,0,0
+24BCS10285,Student_285,CSE,CS303,Operating Systems,44,38,86.36,2,5,0
+24BCS10285,Student_285,CSE,CS304,Computer Networks,39,31,79.49,3,3,0
+24BCS10285,Student_285,CSE,CS305,Cloud Computing,42,33,78.57,3,4,0
+24BCS10286,Student_286,CSE,CS301,Data Structures,42,41,97.62,5,0,0
+24BCS10286,Student_286,CSE,CS302,Database Management Systems,44,43,97.73,4,0,0
+24BCS10286,Student_286,CSE,CS303,Operating Systems,36,36,100.0,5,0,0
+24BCS10286,Student_286,CSE,CS304,Computer Networks,41,34,82.93,4,0,0
+24BCS10286,Student_286,CSE,CS305,Cloud Computing,40,38,95.0,5,0,0
+24BCS10287,Student_287,IT,CS301,Data Structures,39,30,76.92,4,0,0
+24BCS10287,Student_287,IT,CS302,Database Management Systems,43,36,83.72,5,0,0
+24BCS10287,Student_287,IT,CS303,Operating Systems,41,33,80.49,5,0,0
+24BCS10287,Student_287,IT,CS304,Computer Networks,39,30,76.92,4,0,0
+24BCS10287,Student_287,IT,CS305,Cloud Computing,42,33,78.57,5,0,0
+24BCS10288,Student_288,CSE-AI,CS301,Data Structures,41,29,70.73,4,0,1
+24BCS10288,Student_288,CSE-AI,CS302,Database Management Systems,41,29,70.73,5,0,1
+24BCS10288,Student_288,CSE-AI,CS303,Operating Systems,43,37,86.05,4,0,0
+24BCS10288,Student_288,CSE-AI,CS304,Computer Networks,39,31,79.49,5,0,0
+24BCS10288,Student_288,CSE-AI,CS305,Cloud Computing,37,27,72.97,3,5,1
+24BCS10289,Student_289,ECE,CS301,Data Structures,37,22,59.46,4,0,1
+24BCS10289,Student_289,ECE,CS302,Database Management Systems,41,24,58.54,3,5,1
+24BCS10289,Student_289,ECE,CS303,Operating Systems,44,32,72.73,4,0,1
+24BCS10289,Student_289,ECE,CS304,Computer Networks,40,26,65.0,2,5,1
+24BCS10289,Student_289,ECE,CS305,Cloud Computing,42,26,61.9,4,0,1
+24BCS10290,Student_290,CSE,CS301,Data Structures,37,32,86.49,3,2,0
+24BCS10290,Student_290,CSE,CS302,Database Management Systems,38,31,81.58,4,0,0
+24BCS10290,Student_290,CSE,CS303,Operating Systems,38,35,92.11,5,0,0
+24BCS10290,Student_290,CSE,CS304,Computer Networks,38,34,89.47,4,0,0
+24BCS10290,Student_290,CSE,CS305,Cloud Computing,41,39,95.12,5,0,0
+24BCS10291,Student_291,IT,CS301,Data Structures,36,33,91.67,5,0,0
+24BCS10291,Student_291,IT,CS302,Database Management Systems,38,33,86.84,5,0,0
+24BCS10291,Student_291,IT,CS303,Operating Systems,38,34,89.47,5,0,0
+24BCS10291,Student_291,IT,CS304,Computer Networks,40,34,85.0,4,0,0
+24BCS10291,Student_291,IT,CS305,Cloud Computing,37,34,91.89,5,0,0
+24BCS10292,Student_292,CSE-AI,CS301,Data Structures,40,26,65.0,3,4,1
+24BCS10292,Student_292,CSE-AI,CS302,Database Management Systems,43,36,83.72,5,0,0
+24BCS10292,Student_292,CSE-AI,CS303,Operating Systems,40,28,70.0,5,0,1
+24BCS10292,Student_292,CSE-AI,CS304,Computer Networks,43,33,76.74,3,3,1
+24BCS10292,Student_292,CSE-AI,CS305,Cloud Computing,41,32,78.05,4,0,0
+24BCS10293,Student_293,CSE-AI,CS301,Data Structures,42,26,61.9,4,0,1
+24BCS10293,Student_293,CSE-AI,CS302,Database Management Systems,40,31,77.5,5,0,0
+24BCS10293,Student_293,CSE-AI,CS303,Operating Systems,43,28,65.12,5,0,1
+24BCS10293,Student_293,CSE-AI,CS304,Computer Networks,37,28,75.68,5,0,0
+24BCS10293,Student_293,CSE-AI,CS305,Cloud Computing,41,26,63.41,4,0,1
+24BCS10294,Student_294,CSE,CS301,Data Structures,41,39,95.12,5,0,0
+24BCS10294,Student_294,CSE,CS302,Database Management Systems,41,35,85.37,2,5,0
+24BCS10294,Student_294,CSE,CS303,Operating Systems,38,36,94.74,5,0,0
+24BCS10294,Student_294,CSE,CS304,Computer Networks,43,42,97.67,5,0,0
+24BCS10294,Student_294,CSE,CS305,Cloud Computing,39,39,100.0,5,0,0
+24BCS10295,Student_295,CSE-AI,CS301,Data Structures,36,32,88.89,5,0,0
+24BCS10295,Student_295,CSE-AI,CS302,Database Management Systems,39,34,87.18,4,0,0
+24BCS10295,Student_295,CSE-AI,CS303,Operating Systems,41,36,87.8,4,0,0
+24BCS10295,Student_295,CSE-AI,CS304,Computer Networks,37,35,94.59,5,0,0
+24BCS10295,Student_295,CSE-AI,CS305,Cloud Computing,36,34,94.44,5,0,0
+24BCS10296,Student_296,CSE,CS301,Data Structures,42,36,85.71,5,0,0
+24BCS10296,Student_296,CSE,CS302,Database Management Systems,41,35,85.37,4,0,0
+24BCS10296,Student_296,CSE,CS303,Operating Systems,43,38,88.37,5,0,0
+24BCS10296,Student_296,CSE,CS304,Computer Networks,38,35,92.11,5,0,0
+24BCS10296,Student_296,CSE,CS305,Cloud Computing,44,37,84.09,5,0,0
+24BCS10297,Student_297,IT,CS301,Data Structures,40,36,90.0,5,0,0
+24BCS10297,Student_297,IT,CS302,Database Management Systems,37,30,81.08,3,1,0
+24BCS10297,Student_297,IT,CS303,Operating Systems,40,36,90.0,3,2,0
+24BCS10297,Student_297,IT,CS304,Computer Networks,44,37,84.09,4,0,0
+24BCS10297,Student_297,IT,CS305,Cloud Computing,40,37,92.5,4,0,0
+24BCS10298,Student_298,CSE-AI,CS301,Data Structures,41,28,68.29,4,0,1
+24BCS10298,Student_298,CSE-AI,CS302,Database Management Systems,42,29,69.05,3,3,1
+24BCS10298,Student_298,CSE-AI,CS303,Operating Systems,41,27,65.85,3,5,1
+24BCS10298,Student_298,CSE-AI,CS304,Computer Networks,39,28,71.79,5,0,1
+24BCS10298,Student_298,CSE-AI,CS305,Cloud Computing,39,30,76.92,3,2,0
+24BCS10299,Student_299,CSE,CS301,Data Structures,39,25,64.1,3,5,1
+24BCS10299,Student_299,CSE,CS302,Database Management Systems,41,27,65.85,3,3,1
+24BCS10299,Student_299,CSE,CS303,Operating Systems,44,27,61.36,3,1,1
+24BCS10299,Student_299,CSE,CS304,Computer Networks,40,31,77.5,5,0,0
+24BCS10299,Student_299,CSE,CS305,Cloud Computing,38,25,65.79,2,3,1
+24BCS10300,Student_300,CSE,CS301,Data Structures,39,33,84.62,4,0,0
+24BCS10300,Student_300,CSE,CS302,Database Management Systems,42,33,78.57,4,0,0
+24BCS10300,Student_300,CSE,CS303,Operating Systems,36,31,86.11,3,2,0
+24BCS10300,Student_300,CSE,CS304,Computer Networks,44,36,81.82,3,1,0
+24BCS10300,Student_300,CSE,CS305,Cloud Computing,37,35,94.59,5,0,0
